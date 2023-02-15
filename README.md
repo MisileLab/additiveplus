@@ -19,8 +19,8 @@
 
 ### About
 
-When I use additive modpack first, I found REI does not included and other QOL mods too.
-So make new modpack!
+When I use additive modpack first, I found REI does not included and other QOL mods too.  
+So make new modpack!  
 It's built off intergrav's project [Additive](https://modrinth.com/modpack/additive) for maximized performance, boosting your game's framerate up to 10 times.
 
 > Want to know more information about the modpack? [Check out the Modrinth page](https://modrinth.com/modpack/additiveplus) for download links and more!
