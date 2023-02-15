@@ -16,11 +16,11 @@ refresh-fabric:
 refresh-quilt:
 	pw -b -d versions/quilt refresh
 refresh:
-	make refresh-fabric
-	make refresh-quilt
+	just refresh-fabric
+	just refresh-quilt
 update:
-	make update-fabric
-	make update-quilt
+	just update-fabric
+	just update-quilt
 export:
-	make export-fabric
-	make export-quilt
+	just export-fabric
+	just export-quilt
