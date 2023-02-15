@@ -70,6 +70,11 @@ hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
