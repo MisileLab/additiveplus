@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/intergrav/Additive">Base project</a>
   </p>
-  <a href="https://modrinth.com/modpack/additiveplus"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth" height="36"></a>
+  <a href="https://modrinth.com/modpack/basiccraft"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth" height="36"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/supported/gitpod_vector.svg" alt="Ready for GitPod" height="36"></a>
 </div>
 
@@ -23,7 +23,7 @@ When I use additive modpack first, I found REI does not included and other QOL m
 So make new modpack!  
 It's built off intergrav's project [Additive](https://modrinth.com/modpack/additive) for maximized performance, boosting your game's framerate up to 10 times.
 
-> Want to know more information about the modpack? [Check out the Modrinth page](https://modrinth.com/modpack/additiveplus) for download links and more!
+> Want to know more information about the modpack? [Check out the Modrinth page](https://modrinth.com/modpack/basiccraft) for download links and more!
 
 ### Built With
 
