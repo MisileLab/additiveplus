@@ -17,8 +17,8 @@
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
-When I use additive modpack first, I found REI does not included and other QOL mods too.
-So make new modpack!
+When I use additive modpack first, I found REI does not included and other QOL mods too.\
+So make new modpack!\
 It's built off intergrav's project [Additive](https://modrinth.com/modpack/additive) for maximized performance, boosting your game's framerate up to 10 times.
 
 > Want to know more information about the modpack? [Check out the Modrinth page](https://modrinth.com/modpack/basiccraft) for download links and more!
@@ -29,7 +29,7 @@ My goal is to keep project mostly same with additive modpack.
 
 ## 🐛 Reporting Issues
 
-Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/misilelab/additiveplus/issues). Sometimes this may be an issue with Adrenaline and not Additive itself, so I will move the issue accordingly if needed.
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/misilelab/additiveplus/issues). Sometimes this may be an issue with Adrenaline, Additive and not Additiveplus itself, so I will move the issue accordingly if needed.
 
 ## ❓ Frequently Asked Questions
 
