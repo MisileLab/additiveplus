@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f14cf0cf9d9ccfdb39c9eb2a40beb68146c38e9c5c695e0cca112d3f21c7ed23"
+hash = "6cf8dc4dcee580a73a892a2299c12f5f2ee594a1f478604e77833acd28b41673"
 
 [[files]]
 file = "config/puzzle.json"
@@ -108,13 +108,18 @@ hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3aad926de03af1573fb934fb5d3ebd98cc41cf5663f97b0f06a4e6d4b0b9f6f2"
+hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
 metafile = true
 
 [[files]]
