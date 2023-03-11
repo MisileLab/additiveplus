@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f48e853d0747d737b10204720db55eb81fb94fe9acc7a0b12173c219cbe7c624"
+hash = "d4a2dca4a28226d36a35cbd08d6f03b5b33afb2a8c27cd1edd179d56f9d98b6c"
 metafile = true
 
 [[files]]
