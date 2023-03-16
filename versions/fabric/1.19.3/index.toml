@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d4a2dca4a28226d36a35cbd08d6f03b5b33afb2a8c27cd1edd179d56f9d98b6c"
+hash = "54cf13eebcb4324fc6f087a474332572c545d89fcfacfa70b628a6bb74a2d019"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "60751c23742c690a206d5010ecc15fb29a486fd043eada4ab08afa9a46b8046f"
+hash = "b133ebe5db0b754e2bd66e7b0b419c063fda94b19d253c4ff27b096253965bba"
 metafile = true
 
 [[files]]
