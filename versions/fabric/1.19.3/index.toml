@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "54cf13eebcb4324fc6f087a474332572c545d89fcfacfa70b628a6bb74a2d019"
+hash = "d1a855b30f796a2a57faca3702c7bfafb353ddfcd597bca2d8c01fb86f010bbc"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-reputation.pw.toml"
-hash = "8379255314bce0cdf2d2e179c0e6c30c9c175fab5c25d003497b7621da6b5298"
+hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
 metafile = true
 
 [[files]]
