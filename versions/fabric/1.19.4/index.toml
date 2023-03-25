@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "96855a415dd29c43f97c7a875e3c953a16e170c1224fe9c1ab8b010621e5eaef"
+hash = "9fd477e1641d3e008b49089f7650e1023b8e0bbd7105231b60c8ebc7882906ad"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1a28f950f0e26b507b2613224c0f49bec23d1b515f51cdccec3abb221fc8ab08"
+hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6d8f457e49c2a578262d091817b5571897cd73a3bc58db33bac3c60f13d67679"
+hash = "bf041b31e947a9473ad3a349b1ba5f8514bfb2cc2dfaa0f020331228107d83b5"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d1a855b30f796a2a57faca3702c7bfafb353ddfcd597bca2d8c01fb86f010bbc"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "3a378c86d2ff9d63eb420ef3a0473c9282b29ffb2eef087ce7cde868cef9eff1"
+hash = "40c1f4c25b3ddcd571ef583daa3b0bc7a17450e5672daf360cc652cc6401de18"
 metafile = true
 
 [[files]]
