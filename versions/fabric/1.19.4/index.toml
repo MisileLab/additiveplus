@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a58e8a76f31ed41167d0513c45258ba5c09f7bf8cc7169a4b77a0bd482a6ad58"
+hash = "5b55762b678094a36f95f5f940e7c9c09543045ca3b1be5edec4e373e0387cab"
 metafile = true
 
 [[files]]
@@ -140,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/fastload.pw.toml"
 hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "40c1f4c25b3ddcd571ef583daa3b0bc7a17450e5672daf360cc652cc6401de18"
+hash = "32086f66144cb0fe3983463f4eff19e2fa99f9648ad1163d18284694b515b4cd"
 metafile = true
 
 [[files]]
