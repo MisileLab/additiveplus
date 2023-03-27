@@ -102,11 +102,6 @@ hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
-metafile = true
-
-[[files]]
 file = "mods/cem.pw.toml"
 hash = "2393668f05c9062f95075532c112a18df9d328996a34ad527411540fc07a42b7"
 metafile = true
@@ -114,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
 
 [[files]]
@@ -227,6 +227,16 @@ hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
@@ -279,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
+hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
 metafile = true
 
 [[files]]
