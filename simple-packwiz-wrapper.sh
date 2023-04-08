@@ -8,8 +8,11 @@ then
 elif [ $1 = "refresh" ]
 then
     cmd="packwiz refresh"
-else
+elif [ $1 = "update" ]
+then
     cmd="packwiz update --all"
+else
+    cmd="packwiz mr add $2"
 fi
 
 for i in "${active[@]}"
