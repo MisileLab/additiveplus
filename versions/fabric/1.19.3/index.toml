@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "499c0071facdbdc6ae7faaf4562df8a0f2803c436f8242877ef687bbeaf9091d"
+hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -102,11 +102,6 @@ hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
@@ -119,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e7d59ecd1a6d10dfae1f01741c6240833c54f12e48f44997d3ac7971918f3e63"
 metafile = true
 
 [[files]]
