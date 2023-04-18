@@ -2,11 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
+hash = "7f0583d70b3a305b1c763a91b5fe32a253a9c24f8907d39491191712ecf0c9cc"
 
 [[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "d16ef4b4dd9d1cfee220332e0246840ca3893a7c0cde99a299f717b63bd8dc2a"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "62b04eea085d727936f22e03d11ebadfae7490fd58da9048409b94c6ac21af9e"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -38,7 +50,7 @@ hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "61d20c951eee5418cafbc19c811a82dad1d019a2c86a764209b681bd6319a49a"
+hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -117,6 +129,11 @@ hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "500d4bbf46d61d0c7a865051e12331ed8f76c5aa9c969ca2d02a43777aaba82d"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -158,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
+hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
 metafile = true
 
 [[files]]
@@ -173,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "83e3e1e190ee19347b87bfb69b45c43efef0c12df383f6b591f6a4ec11484b1f"
+hash = "4e5b3f0f1f62498a4dfdc4524b8c72ae4e91576ded5f2510cc676532b5876c95"
 metafile = true
 
 [[files]]
@@ -183,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fed0d1bab4e7e037790b03b8df9f9680266395016d95d81c65d6a6074d7d7fa7"
+hash = "7270a9ac5690c04fc5445e88b7cbb9f216c94250e7a3cc98d034049341ab0083"
 metafile = true
 
 [[files]]
