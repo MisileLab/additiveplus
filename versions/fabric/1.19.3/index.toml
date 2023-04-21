@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "05f37610ddae28a516b614c36bd0f059859ade4e5e32850d1a56123b16707715"
+hash = "1a40260b79727502120cbf6a83efc62df915671677bb7e910aa8c65d575d0a80"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0d4bc9ff6ca1bb1024a0ead6d06df3f8dabed6fe5eed974bd94e3eac4c0f7b08"
+hash = "c3a1eaafc9454b17defbb285279291d8c644dd06c339407caf2510da088405b9"
 metafile = true
 
 [[files]]
@@ -251,11 +251,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "df11b66e152011f96cc5a4dbf35d2dec99c4373cb19a8c1c761368170d425cf4"
 metafile = true
 
 [[files]]
