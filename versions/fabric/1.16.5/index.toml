@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7f0583d70b3a305b1c763a91b5fe32a253a9c24f8907d39491191712ecf0c9cc"
+hash = "de4e61c9351551a54f2cb058885d3d71e82f26fe08d17d959561c8541ac95989"
 
 [[files]]
 file = "config/puzzle.json"
@@ -87,6 +87,11 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "437380b4636f7bef2e71098906688d2b8872341bf55a24652bb2b6dc39b68760"
+metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
