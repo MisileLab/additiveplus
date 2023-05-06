@@ -98,6 +98,11 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
 metafile = true
@@ -105,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0050d5509d58325d12079ed2ddf3c8248fcb7f37c3e3e376dbbd10f48e40114d"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
 
 [[files]]
@@ -198,6 +208,16 @@ hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "2af116c0563502b5406623efa04b4a95d93fbcd39c887ce269ae9abe9b1de638"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
 metafile = true
@@ -228,6 +248,11 @@ hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "88327c12d7d616af1d5c7e16abda18c231aea933ad759cb232408449bb1f67d1"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
@@ -245,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
 
 [[files]]
@@ -300,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-searchable.pw.toml"
 hash = "c9f8c764916df95c23fa7fa09738078d275d31f435f9e7a19e2b4b07952f9b58"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]

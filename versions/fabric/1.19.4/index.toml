@@ -98,6 +98,11 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
 metafile = true
@@ -105,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
 
 [[files]]
@@ -193,6 +203,16 @@ hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "4b8bdf4dc91b64039b00a10f120d3cd0a32201a4d6c64348acfe90076aa9c20a"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "48942049da4b13d01d60ede0f153ea9ed1e55317e5ab65423eab316b77dd243f"
 metafile = true
@@ -223,6 +243,11 @@ hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "741141875e3195675988173f2ee04ec2cef83d536dfdae9382f8144013737865"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -235,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
 
 [[files]]
@@ -275,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "1a288ba9c3f6a2fd9798b1db215b0c24a8d20e50bb8b006972d6e682197fee27"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
