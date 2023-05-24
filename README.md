@@ -17,7 +17,7 @@
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
-When I use additive modpack first, I found REI does not included and other QOL mods too.\
+When I use additive modpack first, I found QOL mods does not included.\
 So make new modpack!\
 It's built off intergrav's project [Additive](https://modrinth.com/modpack/additive) for maximized performance, boosting your game's framerate up to 10 times.
 
