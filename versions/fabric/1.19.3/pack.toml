@@ -1,22 +1,12 @@
-<<<<<<< HEAD
 name = "BasicCraft"
 author = "MisileLaboratory"
-version = "1.15.9.2+1.19.3.fabric"
-=======
-name = "Additive"
-author = "UltraStorm"
 version = "1.16.0+1.19.3.fabric"
->>>>>>> 26b6c051bd72a63ef8ab080d4ef55d34d5a1f6b7
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "c250e9600d714cb582b0704c72b69de5d2d5dafe7c29cc0977b26178f1726d77"
-=======
-hash = "e867c5ef5a20f15b49a68d4e0e7487c4ce2b0d56131302d96b0b036c4a12e30c"
->>>>>>> 26b6c051bd72a63ef8ab080d4ef55d34d5a1f6b7
+hash = "644f3f9393baadb94561f041da71aaf1581092c95dffa4165803c3c58667ffc4"
 
 [versions]
 fabric = "0.14.19"

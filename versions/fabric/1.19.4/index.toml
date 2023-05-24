@@ -106,7 +106,6 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
 file = "mods/antighost.pw.toml"
 hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
@@ -122,8 +121,6 @@ hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
 metafile = true
 
 [[files]]
-=======
->>>>>>> 26b6c051bd72a63ef8ab080d4ef55d34d5a1f6b7
 file = "mods/borderless-mining.pw.toml"
 hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
@@ -235,26 +232,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-<<<<<<< HEAD
-hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "757ac04a996fc08517a3ab9ca82ae2119b23d2ea3f0b0b392a526d37bba3e9a5"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
-=======
-hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
->>>>>>> 26b6c051bd72a63ef8ab080d4ef55d34d5a1f6b7
+hash = "11fdc8da455a7f6b9c7dbe235de528155163d39ea0df7d76a9319b2d3da6fa68"
 metafile = true
 
 [[files]]
@@ -299,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -339,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
@@ -349,20 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-<<<<<<< HEAD
-hash = "65c03112397c0c12bb9f9b23880a824e2a39247dc3c5df2ad8782c80e7dba71b"
-=======
 hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
->>>>>>> 26b6c051bd72a63ef8ab080d4ef55d34d5a1f6b7
 metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-<<<<<<< HEAD
-hash = "245062e6f4e7735dfb383be5b7abc7433064ac56f567e3afa395d4f3f0c26dcc"
-=======
 hash = "e69a2678a111c577bdc43e4acf83303a0cba0e9065d2b17665532a37b23d1190"
->>>>>>> 26b6c051bd72a63ef8ab080d4ef55d34d5a1f6b7
 metafile = true
 
 [[files]]
