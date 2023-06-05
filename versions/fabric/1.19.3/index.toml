@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9dc981ff4ede5657fea1aa5d0b54f4e9894b53e463e0feb72398b34b492c1658"
+hash = "0050d5509d58325d12079ed2ddf3c8248fcb7f37c3e3e376dbbd10f48e40114d"
 metafile = true
 
 [[files]]
@@ -158,12 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1c32f96ce76473c32df6f3376bf457c21f26553681b53077a6d76b22b80f843b"
-metafile = true
-
-[[files]]
-file = "mods/emuno.pw.toml"
-hash = "24d93f8e349a4b3612bedf0a67df4f526ae33bc9f388f16840a3aa90b5ff479f"
+hash = "0ca0d82d34737fa84dd45a24a1524acb91197848d6180bb7963043bd60959398"
 metafile = true
 
 [[files]]
@@ -219,11 +214,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
-metafile = true
-
-[[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
 metafile = true
 
 [[files]]
@@ -308,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
@@ -368,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "612c57d82d3a963a9f94f3b2949057cec5162fd39d0c1dab87059e143274d34d"
+hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
 metafile = true
 
 [[files]]

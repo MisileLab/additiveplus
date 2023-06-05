@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
+hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d638a49bf692ed835b1e286692ae769b6baf3c7c1bb51343bcc48def333a1905"
+hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
 metafile = true
 
 [[files]]
@@ -152,12 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b8b1bfd184d87914faae10f114b015686e96205d20884c9fa9d01bb9c388dfb1"
-metafile = true
-
-[[files]]
-file = "mods/emuno.pw.toml"
-hash = "24d93f8e349a4b3612bedf0a67df4f526ae33bc9f388f16840a3aa90b5ff479f"
+hash = "69cc56416b06ffff1841f7ac748dde02e916c930f4a403f7d348016f196fe92f"
 metafile = true
 
 [[files]]
@@ -177,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
+hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
+hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
 metafile = true
 
 [[files]]
@@ -192,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "498647bf3f7f2ab5b76e0f964b352ea745b01a704e4b37c78b9d02e0a43681a9"
+hash = "1d15f4c23e72403f9d3f8aea27001b13808ee5881c8b36fb9f323485193cbe97"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "3a58bb01d7089cb2b58fa5486063f9d4fc9c26f235593857ddd933515960e59f"
+hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
 metafile = true
 
 [[files]]
@@ -211,13 +206,13 @@ hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
@@ -237,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
@@ -247,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "bf0c9d701ddb0912de3f57c4fbd08bd0d36b14c0bf12af82d09564e12b34da41"
+hash = "11fdc8da455a7f6b9c7dbe235de528155163d39ea0df7d76a9319b2d3da6fa68"
 metafile = true
 
 [[files]]
@@ -292,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "0ae0f0fdbb37a150696c3c6f5a7776029ed832da9e1820e504a8f3546cf1a396"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -302,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
@@ -352,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6989736e621a20cd4c80914be69ffda9e1303eb19c5caef76123c0750cf86216"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
 metafile = true
 
 [[files]]
@@ -372,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "c284d3be407e25df2ed7da53b3d1548fe43516d9b3c408434826f750207fceb1"
+hash = "0fffa97e9390aa5715415606daece9e034202d687f3a1d7d79c64b83de0d9968"
 metafile = true
 
 [[files]]
