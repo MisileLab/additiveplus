@@ -105,6 +105,21 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
 metafile = true
@@ -132,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "eb49559459c6f2903d07e5de670eccf611e881dd568793397448d41ed5893821"
 metafile = true
 
 [[files]]
@@ -180,6 +200,16 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "784035eb8a6e9a729a98caf1b781ded5fbe94701697e2d76a6e95256bce3174a"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
 metafile = true
@@ -195,6 +225,16 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "c5367183187e4ca7af91853b5c766583e4192deabec9a3723e4487cff941cac6"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "e0bcfae8d473e27507ca87747e1529eb34c2eb763efcb41c849ed863cbd70c75"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -205,13 +245,23 @@ hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
-hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -227,6 +277,31 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "fb57bda09abe002d7b94f1e9e3f6e836874c0de950d026da273853337d9aac87"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "44743a46e6f1af55144f3fcc91005499757cba9c34122ed759ae0bcde2ed5bb4"
+metafile = true
+
+[[files]]
+file = "mods/roughly-searchable.pw.toml"
+hash = "c9f8c764916df95c23fa7fa09738078d275d31f435f9e7a19e2b4b07952f9b58"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
@@ -262,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
+hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
 metafile = true
 
 [[files]]
