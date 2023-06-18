@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "be83fbfa0ca1eb2f29c1f276b4f6cec0ecd137084c801cb7588d715f88ebd4e2"
+hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
 
 [[files]]
 file = "config/puzzle.json"
@@ -39,6 +39,10 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -86,7 +90,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -108,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "437380b4636f7bef2e71098906688d2b8872341bf55a24652bb2b6dc39b68760"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7227ae7ebc90974368b355d80fd7e6bf76e7fe9946237e8cbc9a3f43f3488b0f"
 metafile = true
 
 [[files]]
@@ -202,10 +211,10 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "e5652f0d55efdaef32b1b8a16f8c9dd7ec3bf2bf0f93602f00f0e099d9374af9"
+hash = "61c6edd9a529527b44db300346ecffb4cc250d250174ccb97eaa2e39832b1529"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
