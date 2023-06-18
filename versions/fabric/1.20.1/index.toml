@@ -280,26 +280,6 @@ hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "fb57bda09abe002d7b94f1e9e3f6e836874c0de950d026da273853337d9aac87"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "44743a46e6f1af55144f3fcc91005499757cba9c34122ed759ae0bcde2ed5bb4"
-metafile = true
-
-[[files]]
-file = "mods/roughly-searchable.pw.toml"
-hash = "c9f8c764916df95c23fa7fa09738078d275d31f435f9e7a19e2b4b07952f9b58"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
@@ -337,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "mods/your-reputation.pw.toml"
-hash = "0b6802221f6eca15b4128ebdec6334e6c039a5efd03d20a990bfa2a3a5f9e2f1"
 metafile = true
 
 [[files]]
