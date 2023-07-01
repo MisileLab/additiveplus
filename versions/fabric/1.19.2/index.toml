@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
+hash = "9f8b46c385c25bb7e50754a70cd05ce058e5d9a75d7f1d45203523bab92932e5"
 
 [[files]]
 file = "config/puzzle.json"
@@ -115,11 +115,6 @@ hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
@@ -145,8 +140,18 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/emuno.pw.toml"
+hash = "24d93f8e349a4b3612bedf0a67df4f526ae33bc9f388f16840a3aa90b5ff479f"
 metafile = true
 
 [[files]]
@@ -171,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -185,11 +190,6 @@ hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
@@ -197,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
 metafile = true
 
 [[files]]
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "3dd006851b3b08a10bd27a5972989736fd172e70befcbce75e30f8c3e84392c4"
+hash = "2e7316dfcdbe292d78cf55189162961c900327bb62d18a58045d46b32137ec67"
 metafile = true
 
 [[files]]
