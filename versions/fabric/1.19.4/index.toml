@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fef3986e3ed4b82655eb390b54350ab928aaa2efabf3502a09a91541a518d370"
+hash = "70ff28335c679fde87a9885e182666d83dc8e159712cdcd34848ab6deeabad39"
 
 [[files]]
 file = "config/puzzle.json"
@@ -75,6 +75,10 @@ hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -210,6 +214,11 @@ hash = "ed38259e82ea5da07a9786886aa76e985c4603cfd578816b2ccab6f7ed4bc86f"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
@@ -231,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e5874061b2bf1bbd0ef26be69ce645e6900f94d0271ddb1f9840f99dfbf6212"
+hash = "79d1d21e13d99ea72f50dc0d11203b1b7489d34992ace7916b118f69d4322545"
 metafile = true
 
 [[files]]
@@ -275,6 +284,11 @@ hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b638f1036128d53d0d8a42b842c1a06ba6b22fdcec725701bf6229cfd6233b55"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
 metafile = true
@@ -307,16 +321,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
-file = "mods/shared-resources.pw.toml"
-hash = "2ffd1ff592db60ad83e456acb6f2e964e09dcc9a9e829211412ef675d489851d"
 metafile = true
 
 [[files]]
