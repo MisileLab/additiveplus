@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a0c0033e973ed45f2dae25bd506d80bb34092f0d3fee3c19fafb0abc8826b3db"
+hash = "7a3404eb106965ce2329cacb573fc099b5d0010abfa82fd0c8060960b0295a04"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "dcd09ab32f3ce982725f77433c0d83df074b4d280991b479d09782a92121fbf7"
+hash = "6d7cd27a77ee46fce01732624c841e0c2a1a0335d5653df8643b16bb42a01497"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "2ffd1ff592db60ad83e456acb6f2e964e09dcc9a9e829211412ef675d489851d"
+hash = "c66adbc1da935996305f64677d753bfa8f42e6cdc9095e64b6df2896a43304ba"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Shared Resources"
-filename = "shared-resources-1.5.2.jar"
+filename = "shared-resources-1.6.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8CsGxc95/versions/r1McPjbG/shared-resources-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/8CsGxc95/versions/AtMhQ8Gi/shared-resources-1.6.0.jar"
 hash-format = "sha1"
-hash = "a3f716607aa9588a26a5bcf878b6316937a09a80"
+hash = "45319b5e9f2148eb14925490107d3022f3422569"
 
 [update]
 [update.modrinth]
 mod-id = "8CsGxc95"
-version = "r1McPjbG"
+version = "AtMhQ8Gi"
