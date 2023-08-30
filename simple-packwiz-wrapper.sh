@@ -11,6 +11,9 @@ then
 elif [ $1 = "update" ]
 then
     cmd="packwiz update --all"
+elif [ $1 = "clean" ]
+then
+    cmd="rm -v *.mrpack"
 else
     cmd="packwiz mr add $2"
 fi
