@@ -1,6 +1,6 @@
 name = "BasicCraft"
 author = "MisileLaboratory"
-version = "1.18.3+1.19.4.fabric"
+version = "1.18.5+1.19.4.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
