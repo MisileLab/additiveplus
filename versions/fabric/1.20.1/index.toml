@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
+hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ca2c62934680ee8e5a58a1a0011203406b0f067b0cfed60d088981dfa8579f99"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c068d98a1cc89baf3607efd841c9a8073bcdc2e95a1331de12308b65710df0cb"
+hash = "559a46acee6bd5368fac543cb90902a7eb692426329d1041af790d8a22167154"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
+hash = "cd9e975f57957445016f58556136ed293ad29919ac5735aaa587d5c5c251aac0"
 metafile = true
 
 [[files]]

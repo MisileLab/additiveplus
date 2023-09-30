@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "63a98a539356af7c16641202f4a5e8f3883f66d58f2579b731becae265995a2e"
+hash = "03a2f7d9d9c8de9d7b7dcd11dd089e3d13bfe7a91eb143f641a66dce78348d54"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b8cb0fbb7b57ea25bf7d7a5035b76ab188d8caedbb8ea50578a319a0b4d871dc"
+hash = "df4ef9b13881c60bbdbefb798a9c4654a0c8dd6ed7f84a878ab9c49db5e2ca18"
 metafile = true
 
 [[files]]
@@ -248,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7ad950f504cd260099c184b5e9a10e90cb78c1b4c0d7b4da29b6fb20baee2097"
+hash = "7df8306d7857ae907203e76e762200c0abebf61e321580d7583d77362cc3549d"
 metafile = true
 
 [[files]]
 file = "mods/lilac.pw.toml"
-hash = "589bff25807b43912f721b2ff793c4ca1f0d47adf7e95dc843fd923a454220a0"
+hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
 metafile = true
 
 [[files]]
