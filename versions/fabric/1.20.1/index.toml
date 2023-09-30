@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4b97d28aa1e2d2ece89ea2c85c66eb67f6fd71fb8d6ff4cc915371c794d6a022"
+hash = "17df3203c357ae2bbbeeb2eee65cf23311c4ec7a035055ec2ae988db51243a62"
 
 [[files]]
 file = "config/puzzle.json"
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/lilac.pw.toml"
-hash = "589bff25807b43912f721b2ff793c4ca1f0d47adf7e95dc843fd923a454220a0"
+hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
+hash = "e2979be57609f1f74666d2f69c003836b8551941e761a79707fbf3f9562dc603"
 metafile = true
 
 [[files]]
@@ -333,17 +333,17 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "f8649c2c887f1dc26ab14afb357c1709b0263a9265fd49814a8d8e8449502f50"
+hash = "09782acebed63d5aadf6324b7a4dc54d2cce89b3327b3f567c2f8c7811525ea6"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
+hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
 
 [[files]]
