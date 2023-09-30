@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4b97d28aa1e2d2ece89ea2c85c66eb67f6fd71fb8d6ff4cc915371c794d6a022"
+hash = "17df3203c357ae2bbbeeb2eee65cf23311c4ec7a035055ec2ae988db51243a62"
 
 [[files]]
 file = "config/puzzle.json"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a59200f17de0902d8018567d20fdd550224a84ddf19f9b50fb70a14ad30d2d6a"
+hash = "b179e8127f4e555b51cf2aa5fe853d1dc375244557a0b724823664a6b88765ad"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "39b013f54d6a8c48419a71557e6a3ec0fa9f350438b4ca26285261d66e017b0a"
+hash = "bf15af24a20747fa85a32c620eef0f36963a0bff65dda2d6b70b29a9bebd0793"
 metafile = true
 
 [[files]]
