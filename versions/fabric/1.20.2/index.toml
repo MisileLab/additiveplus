@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+hash = "f5b6e2153a874ab8c18aa8a2bdd64f822fe0a6c99f4cecb2a6650bd85e79f311"
 metafile = true
 
 [[files]]
@@ -172,17 +172,16 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "f80e4a46fab9a9c99ebf3193f2c73675f6f6659fcd740692e14501213f633c70"
 hash = "f80e4a46fab9a9c99ebf3193f2c73675f6f6659fcd740692e14501213f633c70"
 metafile = true
 
@@ -228,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e155f1652743cbc82d1bf0970c6f1759ad2507eabfc409a41dbb604999946b12"
+hash = "ad13fd19645969d61b132e7921520b630617f20f2e39dcd21c3e51ff8e24547c"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+hash = "d1e35e3c6a07ec2760c5f3a68974bc7952310abb6499898d2c3ad257598f616a"
 metafile = true
 
 [[files]]
@@ -258,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74466c118cfcd7b89ccfc3841a4bf9421e762079b584807ca8651d6145b3afd8"
+hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
 metafile = true
 
 [[files]]
@@ -273,12 +272,17 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "c629f087af58508d4e79408ce2ca628f0000fa02b471c9f90262ded4700d4eab"
+hash = "974da34a6cd99ba639059ad15b21b45de01bf44b1cb11024bbee3f6283912cf2"
 metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
 metafile = true
 
 [[files]]
@@ -288,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "19a098ab3131eb6daf0033199744d33dbb31a4ce9b20b9fc6eb709ab1272aa7e"
+hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
 metafile = true
 
 [[files]]
@@ -298,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "abf2cd28099c3c2d0ba42ea9d8eb6bb6c6976bcfca1b3ec6d38f3241d43bf105"
+hash = "31e425f24b87435439d6ae60f243d8f5cb8317af099f4c4ed45bc315da8a8484"
 metafile = true
 
 [[files]]
@@ -338,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0178533c181b324eaf1806661508a53f10a2b32657ce3c4ca47044c1bef5eeb7"
+hash = "11b98a1ad1e11b2032cfffcd6f9eb637052adbe6a29c74df44bf3219345e6a09"
 metafile = true
 
 [[files]]
