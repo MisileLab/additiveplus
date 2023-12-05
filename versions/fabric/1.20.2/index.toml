@@ -115,6 +115,11 @@ hash = "260a142b1b04da998ccc93034d31cc64e737bdd6e4538da21441c4d9c506a46d"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "45d35e2ab8fb0f71325cdbc76cea03cc96852d0f20109e41daf50486e44a85e1"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
