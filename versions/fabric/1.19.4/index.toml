@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5a0512edc2528b817ecd5a89255668b9de6e814afb420ad828d406af46a244c4"
+hash = "f33187897640df213dc31e8b07abc52f609bc0565c9a818a6e975d6091d6df64"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7df8306d7857ae907203e76e762200c0abebf61e321580d7583d77362cc3549d"
+hash = "e9a823cbe7a116a4739951453707171bcacee176ce13cb11d50ae747c3397254"
 metafile = true
 
 [[files]]
