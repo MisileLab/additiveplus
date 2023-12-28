@@ -1,5 +1,3 @@
-#!/bin/bash
-
 active=(versions/active/*)
 
 if [ $1 = "export" ]
