@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f33187897640df213dc31e8b07abc52f609bc0565c9a818a6e975d6091d6df64"
+hash = "54b062939226c83896da6552602c08383ecae590fab06e7146bbb7644e6ad425"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
