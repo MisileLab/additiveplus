@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ad13fd19645969d61b132e7921520b630617f20f2e39dcd21c3e51ff8e24547c"
+hash = "5afb10756b351448c853f54d94551e8596699dc19c21353b50957ff4ca6991ab"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
