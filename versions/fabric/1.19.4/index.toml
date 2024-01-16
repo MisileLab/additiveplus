@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e4e9a4301a076fe486fe2eb65902bcd3dabc2610b083f9136314852c4a9355b3"
+hash = "4a0723bc27c02e13d42ca1d46fe953464962f1f91ad95d3503d4fcd1d833c996"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "54b062939226c83896da6552602c08383ecae590fab06e7146bbb7644e6ad425"
+hash = "27c7a026ab85a62006678fe81b21259dcb64ca4b51b74b4a0f7092f99f79aa8f"
 metafile = true
 
 [[files]]
@@ -216,13 +216,18 @@ hash = "ed38259e82ea5da07a9786886aa76e985c4603cfd578816b2ccab6f7ed4bc86f"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
