@@ -100,12 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "52c77799b145cf4d03b57b67598b6bff646073886b8f11524e5de0c140c5207a"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
+hash = "ad105ca1fee41431ddb955e09002b92900a5346ad49ea54ad9b9515d61c8ad15"
 metafile = true
 
 [[files]]
@@ -140,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
@@ -160,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b08b95dced25273ad3276b3e4f475d2ad2af24cf12d1ad414517a2f66a861c6d"
+hash = "17264a26c84485fd5cce6c1108473fc360950ea0e0cb6a377be48ad40bb15bf8"
 metafile = true
 
 [[files]]
@@ -170,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0ec22582716be3e96af840a46e12ca466a13a045bc163cfbfa650eeba2d0796e"
+hash = "14bd28ce5d1530e6fffe2958c76069ab4815fb4c448abd5994b3431ab1094e76"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "25b087e635ab907f000d598b9a6279cc11a2c740063bf10be3adb175104dc23d"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
@@ -199,11 +194,6 @@ hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
@@ -215,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "e2f157f2434341292e705022f597411ba2be3a86f1f7cf7a24a3c759123043b8"
+hash = "bef742357569c57ea3ed96448bf40aac7cd7cdb001646b1768d2693ebab3df66"
 metafile = true
 
 [[files]]
@@ -234,13 +224,13 @@ hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
+file = "mods/jade.pw.toml"
+hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "4b0dc5a4e66974885600acef784f425a6930a1fa4e6091a0b46eef65c063c215"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
 metafile = true
 
 [[files]]
@@ -260,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
@@ -270,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "d005e3ba4ffdd95bf8749eff09e625f371415ce4e6ad597bf02c47b38dec87eb"
+hash = "0620c2cceb13bee1ce5a467209891e2c4f674e4c63076e18b1842f055560aae7"
 metafile = true
 
 [[files]]
@@ -285,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
 metafile = true
 
 [[files]]
@@ -300,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
