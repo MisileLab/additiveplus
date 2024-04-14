@@ -34,3 +34,5 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 ## ❓ Frequently Asked Questions
 
 For a few frequently asked questions, please visit the Adrenaline [wiki](https://github.com/intergrav/Adrenaline/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+
+*Additive's description is heavily inspired by [Sodium](https://modrinth.com/mod/sodium)'s description and also includes some information from them. Description last updated: March 25, 2024*

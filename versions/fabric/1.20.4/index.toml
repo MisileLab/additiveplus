@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "992a57c8b3d0f0df9c8e51c024e57bdb6f72f0b9fa81cdc22b1f2e180172b3a8"
+hash = "7b0f74783df53abcd38de463c7b79582d8e75737e5ccadc07ceb823106cc7dbf"
 
 [[files]]
 file = "config/puzzle.json"
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "457603e7c278da5b0a418354585addb075993380ec9e195d691d5097a8bd512c"
+hash = "96478690ba4437d4f27af541c9365bd9dfd30674c3dc12fb3a1702e358a16a0c"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -244,6 +244,11 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/loqui.pw.toml"
+hash = "fa0de9ccb48de8fa13f70939277314d3a538d3a71b88abe21197cb6a2189fd63"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -255,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
 metafile = true
 
 [[files]]
@@ -280,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6952047c84c752d8328088b85e768bd98158140947fab7f6e9f51f7a5a206d54"
+hash = "418339fd110b3103efe89feb85b6f77bc3914a00fd8d81368fbb8524b5938bd6"
 metafile = true
 
 [[files]]
@@ -330,12 +335,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
+hash = "af2f18c6feb48fe4bfc019bdbc4899eb874324082207dc01171ffbf15547f5dd"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "fd2001170ec72ebe105f9b49c804d25b1d29eddefdc8deb2c8e607531985971c"
+hash = "541c9a4652b02d1edfd7465c3c0ee17b0d9d12e02cd48412f9a6df27777683f5"
 metafile = true
 
 [[files]]
