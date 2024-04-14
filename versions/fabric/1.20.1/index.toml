@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "3b459d321d422b95dd13da104e7b88ec301bdc6e07f22215f4be7adcab13c7d8"
+hash = "bc48b96b648cbdeb36a05fd43532b5098d0d31f0e9bbe605ba0287c4d5b53cef"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
+hash = "2bcdb590588b04be48afdff98ba338c4470c84b159ddcdef7b932ea0417653ba"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "31e425f24b87435439d6ae60f243d8f5cb8317af099f4c4ed45bc315da8a8484"
+hash = "028adad81895f67f8c19486c156068ecf029edc7826fdc1bdec439df74cca52a"
 metafile = true
 
 [[files]]
