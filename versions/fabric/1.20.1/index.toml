@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8f0af1f5e27da3027d01516d0ebd8a0f86a528fe2f1ccd461f2a8e3b3ca847fa"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "10eead85b57a4646c27aceed0597cca489cd4ae5e4436bb69f9b1b428325ef89"
+hash = "53d5669382a7020135b03e2f30a0bce2fe5d9cb62c853ce06b5274169c9d4542"
 metafile = true
 
 [[files]]
