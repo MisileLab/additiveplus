@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "181f05a6148af614504b7e1833dc5c04c1754f1cf899448db18555d3a7d56bf5"
+hash = "95d9933fb8d8d8d22dcc2eb4eafe3f1a91f02f1f2acc8208c464347b36cf91f7"
 
 [[files]]
 file = "config/puzzle.json"
@@ -119,6 +119,11 @@ hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "22eb0b8b040246f109364b859bc0cf15af428e21393b0519091c110bd44508ec"
+hash = "9558aa8c50536000d90b990f1bcdaec0242f7bbcbd82b30c9dc6aa7c51d205c5"
 metafile = true
 
 [[files]]
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c016919313362ead66fda50e3b4ff6eb4a7901210d71861827bb3e30db096d95"
+hash = "360959c50ff0b2765e683273b256cac86ccf8b4b96b54ad863d45ae2c44bf35f"
 metafile = true
 
 [[files]]
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -230,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -304,13 +309,18 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2992ddb07b09be1a327b4b653826d6b137c31d4e6f720227231fac946fd1f297"
+hash = "2469fbc6dc899364b6df9d39435e628482b09455a5c39f5a91080a22aaa49aa7"
 metafile = true
 
 [[files]]
@@ -350,12 +360,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "2200914b42056b8c7d5e4d6f0ae0365da45294cab7a13361c1cece483706297b"
+hash = "b80d2173378335579b66137bd303843cb771c3b86d87d80bce68184b4f54f528"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "53d5669382a7020135b03e2f30a0bce2fe5d9cb62c853ce06b5274169c9d4542"
+hash = "120a21fa73bcc231ebb23dd30fc32b1da54ced4ab62c5e3f052927e06d422f1c"
 metafile = true
 
 [[files]]
@@ -365,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+hash = "0dfc437b6a74265d48e4b563dde1ddecf40c202a73f963d6a94bd27a552ac0dd"
 metafile = true
 
 [[files]]
