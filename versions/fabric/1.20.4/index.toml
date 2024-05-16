@@ -99,6 +99,11 @@ hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "aac04d193cc34a0af6e2838f9bfccf27f4c810c8efcfe5421644a7f2372f8cae"
 metafile = true
@@ -106,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/calcmod.pw.toml"
 hash = "c85c3e680af7e30e2379956a67bd8b0f5d424390f7a130f507143ec4984cc6cd"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
+hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "0620c2cceb13bee1ce5a467209891e2c4f674e4c63076e18b1842f055560aae7"
+hash = "837f0f29fbf074facf589d32522b0003fdc34796e3a646784ce06a21d1faf35e"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "978fad60641210b2da438426ce9cb4f08b89ab677df05f1585848e3cc89730b5"
+hash = "98f25d8c648b5872bab1d59f0ea4acbca07e086af6fb5ff32422d354579cfd91"
 metafile = true
 
 [[files]]
