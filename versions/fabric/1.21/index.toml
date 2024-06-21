@@ -102,8 +102,23 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "0d1c2ae16cf9f53cbe868ca0c8444618d7f5ddc6ececef3db21bd27d354c263d"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "eeec057d3fb7f0c076d271a1c3608b67d88895e59a18bb9b5a5fe604b65fc6e6"
 metafile = true
 
 [[files]]
@@ -207,6 +222,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "5b1cda9745d5f3e2c09b1855cc77d7aa9feeecd519d472919b8ec2b075a1e6dc"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
@@ -219,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2eb91ecfdf85409ba08ea1bf1cf0a6f692e30bb94a90c75303c13da97aab504e"
 metafile = true
 
 [[files]]
@@ -254,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
