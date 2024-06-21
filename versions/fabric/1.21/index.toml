@@ -97,6 +97,10 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
+file = "missing-mods.txt"
+hash = "b8bece3ac43d08835c16ef85f65a24d7159501c723fe4596e493b2bac5f59514"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -193,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "f136bce6bee463cd87650b95db34ebf07d258983bccd4164597cd5cf41d21c9b"
+hash = "2bbb707f231c2225374e1c93d0d07e6cd1621e76ded5ad030af5916f4d2b5b0e"
 metafile = true
 
 [[files]]
