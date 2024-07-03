@@ -97,10 +97,6 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
-file = "missing-mods.txt"
-hash = "b8bece3ac43d08835c16ef85f65a24d7159501c723fe4596e493b2bac5f59514"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -247,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "2eb91ecfdf85409ba08ea1bf1cf0a6f692e30bb94a90c75303c13da97aab504e"
+hash = "47f6efdca29b585b4265d18edf6c6be56fbefbdf889ad6f9e7e01d91dfa581b6"
 metafile = true
 
 [[files]]
