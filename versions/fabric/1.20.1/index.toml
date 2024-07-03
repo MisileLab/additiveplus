@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "ec8db6785b5d22bcb55a893afa0013ab2c8eac1dfd50272fba79acb506702e1b"
+hash = "a685dc41c1361b3bf5b77533826a1216534e1c689fee371c002e9e9fcccdf712"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "5efb3876cbd22e67892ff0a7bf26a5aaaedf3ab9fab4cc9e80328424276c8278"
+hash = "754286a8028e7d4ac833ebd3739eca22381ee623a304a2784ccc4662baeed734"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "54890a01a4be6b5fce37129ddf77e78fb00b0bedfacf49e11aa173e221cc3876"
+hash = "e9f736ad747c97b0a5dff45fa4ef8e2c8744931a69d16545d77034777420bb1a"
 metafile = true
 
 [[files]]
