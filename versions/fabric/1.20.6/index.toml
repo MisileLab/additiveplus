@@ -277,6 +277,11 @@ hash = "15af904cfeb2ee20ba0c865bae42dcc7eaea31b18bde9e9f5fb4e4192185566f"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "386d50af719e072b2313f5ddc4f52325e2250a78a4e17252f16d77735e9d1958"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true

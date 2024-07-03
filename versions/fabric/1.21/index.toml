@@ -281,6 +281,16 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "59fdcf760c54375cd57f45346c6510773dfac5d846abea3def8a22b85b1f4fc2"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "6de363a1d2baf1d4048a838de11353efa39efa396c6a8189a6e5ea368d7e9245"
 metafile = true
@@ -288,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
+metafile = true
+
+[[files]]
+file = "mods/screenshots.pw.toml"
+hash = "5d6f3293db98f0de887f4050f518c45f2136a8c72f7dc74f3af7f07100b228bb"
 metafile = true
 
 [[files]]
