@@ -1,0 +1,13 @@
+name = "Screenshots"
+filename = "screenshots-2.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VuT1FX12/versions/wKZtvgAZ/screenshots-2.0.2.jar"
+hash-format = "sha1"
+hash = "171ac23378fc0fa3974ee5dbb61cda5d15dedd58"
+
+[update]
+[update.modrinth]
+mod-id = "VuT1FX12"
+version = "wKZtvgAZ"
