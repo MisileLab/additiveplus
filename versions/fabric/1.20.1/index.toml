@@ -178,11 +178,6 @@ hash = "a685dc41c1361b3bf5b77533826a1216534e1c689fee371c002e9e9fcccdf712"
 metafile = true
 
 [[files]]
-file = "mods/emuno.pw.toml"
-hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3532700b41c5b82a0b57b140d0eb2e6f36728c575901b077b39cacac5a4322c8"
 metafile = true
@@ -359,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "e9f736ad747c97b0a5dff45fa4ef8e2c8744931a69d16545d77034777420bb1a"
+hash = "ee1a7004a1c033f0b9786a1ed052dfd0b6c012a9417efb73c9b25e5cc0b9c690"
 metafile = true
 
 [[files]]
