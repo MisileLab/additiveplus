@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
+hash = "541518f620f77792c645336a1ba7f7feb150075e49829d5c2fe9aec182bc46a2"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "55db857485ba12c4b59da5851f63d643efcb10c8f7890d94a5cf7f078a5ebc8a"
+hash = "2e5e6fb472161230726f7b7110a526a8e633cd770405bcc9ca82ba9d41602412"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ea19b1107116812eafd7cae204fdef497a35ee8694bfb135afa7bb2ed186011b"
+hash = "56621ae7f215666442d856c94f14a9bcb109bfdbf3ff6408a385ed6a10906c7e"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3f75c869eed06f86c4ee28e66ecdf39dd00cc11e07c4219cd538f7060cfe837f"
+hash = "36827e7516c8418650b4154e63a16916c5233d6c312207b737c710aee3593b9f"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "246e4f90fbb5672228833b67a70eed74196cefb552698bdde78bd0bbd824ffd9"
+hash = "208bcbfa0a58fc05c9d70e51d0fa0d041b66173ef7285ad7b9cb28126886c0dc"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "386d50af719e072b2313f5ddc4f52325e2250a78a4e17252f16d77735e9d1958"
+hash = "a80d00ec3e3896c63a1b63432169a618c7cbb7880f5cfe7d10015892457e841d"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "3b1752764bfce5851f688c981787478cbaf25cf984c00ce0a6498d0915f5d053"
+hash = "4ee672430cb4b83082e6f500ebb22693cf18fc872f6d78a6ad580a95c293274b"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
 
 [[files]]
@@ -367,12 +367,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "90d2847a2f20dadade7a3d21a625b70d2f22d1c8ddd5bfa7474d83d1162dc0dd"
+hash = "44a5de1ad7f56e021d67f7fd904d9bf0c41e29c74fdbe55ba551758036ef88cc"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4eaff00402d863a5fd6022460afbbf81e28e3d1a0b0ba9ab45854b12570f326c"
+hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
 metafile = true
 
 [[files]]

@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+hash = "eedead342bdd4f2b7aa9d148641a7b8ce7f54ef0d68e49ed82e0c5541a8fe7bf"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b649f7560518b80344f8b2381110dd6dfc7ce2bf4aa09c849434b921d8bec2e2"
+hash = "9c8590e26789e67d9379bc9cf7b4f64661593c6e161b5f97a961481bc1fb7a2e"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "837f0f29fbf074facf589d32522b0003fdc34796e3a646784ce06a21d1faf35e"
+hash = "cb256fed8c30de2828547ccd2e1d93ffa913159b060ad5e7fbe567259d39c3d0"
 metafile = true
 
 [[files]]
