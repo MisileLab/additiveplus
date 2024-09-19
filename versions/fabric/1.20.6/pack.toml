@@ -1,13 +1,13 @@
 name = "BasicCraft"
 author = "MisileLaboratory"
-version = "1.29.1+1.20.6.fabric"
+version = "1.30.0+1.20.6.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1501cec64f7b2e0205b0f7ff6b5c9224c1b11df0e358594279ddceb16f971495"
+hash = "99f1b562aec43f5de016400a657b8cf3fb8e4fa15c879ae5d913ebb8a1980912"
 
 [versions]
-fabric = "0.15.11"
+fabric = "0.16.5"
 minecraft = "1.20.6"
