@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7730f7bf5e9d26ed4a89e843461bd8ff2c6d9cdb37be663f797ae1ea0aef9bdf"
+hash = "5f36998bb418a9b13a5cb5495fca1afe47e96b1380fba7bf013c6557c36ce8ed"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "bcd27d481492c7f60c09bb841281da82eb6f8e83305c98f2be21376d7bd3fae1"
+hash = "ca655191db88491c03ba373404a611bb5f1063ab00f3d739e2d06bc2146d40fe"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "b2db81b53e71fc73306a4a5bafb7a33662e2e3da6d77210db607466cd4c41d49"
+hash = "df1933a8d7d56860180cf6438076d8721aef23a61eb24ae65482e0304cb3c0f8"
 metafile = true
 
 [[files]]
@@ -397,5 +397,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "456a72a29a8f9e2139b94b0f02e0aec653d7152631226ab44c4840a49a6597d2"
+hash = "279eef3d54643624d8bc9bb655f9d89ce7ec34f2fe61c99fc19f68b00cb5ad66"
 metafile = true
