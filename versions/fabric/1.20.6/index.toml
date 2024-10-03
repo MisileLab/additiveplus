@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "2e5e6fb472161230726f7b7110a526a8e633cd770405bcc9ca82ba9d41602412"
+hash = "aa77cc59aca7721862013bca77a93bc0b85ea189af013fcd69578f84c3631d51"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "bc7a34b2b5610018b22755207db351d098cb6f2410a21ea8bdab040919306626"
+hash = "eda5c27058810d11a81f5796f390e8337ddf0c22448063dad168e5b67cad1d43"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "208bcbfa0a58fc05c9d70e51d0fa0d041b66173ef7285ad7b9cb28126886c0dc"
+hash = "da451bdf6c80c8bf903728f190a92b9f54a83a0488f62e325d7781e7dabcd8ca"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "3572aa6d75c3ee9bdd85db71a6c43e9a996ce15e5371b2596c7017feddf56c9f"
+hash = "c6569f7c9b24476a58aeafc855b54f5773c437ecb9d709ac3f2dbd96d94eeae1"
 metafile = true
 
 [[files]]
@@ -402,5 +402,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "456a72a29a8f9e2139b94b0f02e0aec653d7152631226ab44c4840a49a6597d2"
+hash = "279eef3d54643624d8bc9bb655f9d89ce7ec34f2fe61c99fc19f68b00cb5ad66"
 metafile = true
