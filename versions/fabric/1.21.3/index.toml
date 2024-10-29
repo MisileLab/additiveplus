@@ -101,6 +101,10 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
+file = "missing-mods"
+hash = "b894933afac6259eb96ce333251dc285a2d4c7d3cb0a9e6d780bc837affb547f"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
