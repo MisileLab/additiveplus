@@ -106,6 +106,16 @@ hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
 
 [[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "80fefd0b601d80a03910be41d105879e6e4382e8571f70b7deb972b9a03aea02"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "05a589c3d5bb6dc3c464f5b9618f5748198ae578a09f5fdfcda798584dd96982"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "884f4dff7440c790c001c68160aad47c70431fad6087c017c7e81578574c0581"
 metafile = true
@@ -171,8 +181,18 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "79e959b7f0ec61dea904984b2df96aa7dfafca104fccaf3e253cb63ab47a0bbb"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "1d274c9c19d6c9e4f913b86c12d639e6b92a92f52f1387b207345a9e2155375a"
 metafile = true
 
 [[files]]

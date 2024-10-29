@@ -126,6 +126,11 @@ hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
 metafile = true
 
 [[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "87307591907c2d2e9831617c0447c17934273983b91a33539dd25ab1ccee2b20"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "c98c097f639930947e9513ffa7556d13b74a18c8b1999cb35b856ce359abf374"
 metafile = true
