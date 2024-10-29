@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "30a2f639b3d2113aeeae73a8a49a4dd29374617e474241b592dfc26a3bf9b7d5"
+hash = "2a31a19ad2ad3689937d8d3bb7599ec00b73cef6dd3746b453e57746271e000b"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "da4f0d277bd0dd7137f79b3faa5f19e7d16f5352a6ed2d2d6a4789621c3492ea"
+hash = "9831c303787202296c85b548c9139a5f2c67471f22bad772a5da55b5859036e3"
 metafile = true
 
 [[files]]
@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "84de3cd780d9b310e855a6977b6b432b6ab5cb1da8a0c557341825ba31697af2"
+hash = "7365a398d1d429363e9c361e2bb004d4b0c4139a42c44fcd1b39fca6714a3ba9"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "815f2171f1901de25664138b3ad37697d64985f6972adbbb76982806c32154f0"
+hash = "358b25e9535068f93289078426fd42446d4071ddf5cd9fd40ac8ad9c4387c9fa"
 metafile = true
 
 [[files]]
@@ -196,17 +196,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+hash = "6781d16eadeb0c3795428014f55979736795206072637df5a8ac9344a107d9db"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "1f3f96673c70f0946f08840a0834481e2091d7b7421c8bce6c0984a5d6d90fa4"
+hash = "c0f27ae4354596b6c3c78705c18bf6a33af58d26084baa374484cbd041e3ea00"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "596009ec5701f7063fc8b4dcf145da1fd557e96d1abd1908948b6bf9481b444b"
+hash = "6a423798bbc599b2078035540d9edc0d425dac7a65eb80e51a2708fb9100cc60"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "c2b91ded8ad6d276f49e30162c201895240e1bf68e8bf7051a2e9a8e56c23963"
+hash = "3b9b2bbf3b3f5279f89730b7700a26a2577873eda8a11fb68f9139da2626483e"
 metafile = true
 
 [[files]]
@@ -321,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "adf7d24d151493401d0a082d86c36d04829727a696a3302c93f5026c19faa4cc"
+hash = "87d3d8e6a291e84a33a639c5a5b12615e4b24fb0d0d70ae3a53c8ac95d644b8a"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b69d4e0d36fd0b4520e72b6eebd4104e842027ded62e1ebb362dd2e3bd7a5608"
+hash = "38e0d09198e2b89661dfada3ee990f41e128ac5d27a1a7af6adc750cc81e348b"
 metafile = true
 
 [[files]]
@@ -337,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
-metafile = true
-
-[[files]]
-file = "mods/resolutioncontrol3.pw.toml"
-hash = "3cd6537b34fe2375abdf1186ae90d857356158e4beb6f0fb2258991a76053c87"
 metafile = true
 
 [[files]]
@@ -381,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7bc596f3b7570982e10c2b0d796599af09251bccf54beda372e563b7a322e65a"
+hash = "101e29ca99bb59ae891096b956d8432aa4ddd3ac1d2bebffb58cb392b8967e45"
 metafile = true
 
 [[files]]
@@ -401,5 +396,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "279eef3d54643624d8bc9bb655f9d89ce7ec34f2fe61c99fc19f68b00cb5ad66"
+hash = "1c0ac312f7caa6bf7fc59002b9841617b17dad0d6e47dbdcaa97cca365a1ea91"
 metafile = true
