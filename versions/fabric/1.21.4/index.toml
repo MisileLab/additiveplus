@@ -101,6 +101,11 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -151,6 +156,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "c41390bc223fb30f63f9e934e96ffd096f76651ae7d3dba8b201a8f50434a4af"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
@@ -158,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "1983d3c4948ac283e002179fba0666bcb24fab4ad4e5aa92a9d1de6d6a4bd3ab"
 metafile = true
 
 [[files]]
@@ -193,6 +208,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "7246efa2739a04e4f72461293c6b7daa1d71bd96504aa25e98248388e4741edb"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
