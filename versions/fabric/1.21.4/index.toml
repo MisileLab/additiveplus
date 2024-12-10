@@ -101,6 +101,10 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
+file = "missing-mods"
+hash = "bdf85b9dcc45b38e6e398aaf7888f818271ad71001072372e11900a0c4fb07e7"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
 metafile = true
