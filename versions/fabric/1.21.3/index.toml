@@ -101,8 +101,9 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
-file = "missing-mods"
-hash = "b894933afac6259eb96ce333251dc285a2d4c7d3cb0a9e6d780bc837affb547f"
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -121,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "99518f04fb572c919fac486c48b341f1747da25f62b8653333e96fa41bb9240c"
+hash = "d9e9b9fda0738cafa890b9508a48d26f2ce35fda58b85a583628a82ce7ca01e4"
 metafile = true
 
 [[files]]
@@ -161,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "19b3521e917d1ed06f71caf7f4c468846a6fcd955fb97db10fed9baecedaefd4"
+hash = "43faf65e4b7e263526a5689d3277248259c16a3d28e757a17587ad0039637a57"
 metafile = true
 
 [[files]]
@@ -186,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "109c62401c2b47b4a4481596725d866fd11b1271383f7fb2d4e8657a004ce474"
+hash = "5b8e02acacc48db0cd96df0605e38245408c0c5ace57c87ae485c2f43b26995d"
 metafile = true
 
 [[files]]
@@ -206,7 +207,8 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "79e959b7f0ec61dea904984b2df96aa7dfafca104fccaf3e253cb63ab47a0bbb"
+hash = "c41390bc223fb30f63f9e934e96ffd096f76651ae7d3dba8b201a8f50434a4af"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -235,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "129c03b79033a095fd345caaa01845d41a28e8312212495fd30922a82a950be3"
+hash = "5fd736c52de8100c0d783cceab57c5d6de6723468258f188ce028e1019643862"
 metafile = true
 
 [[files]]
@@ -255,12 +257,22 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
+hash = "0501eba6c8c7df95e781e7a11db518c08eefca45247ab583121941b6cbed4697"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "8df15e4c82204449bc611392e13ba20e6586e9be5aedc65260deead2de0b00f6"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "483983e4a2dd415abd953dc21f0853862cab013517574936be0663157f6e9234"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
@@ -275,12 +287,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
+hash = "43f000e70ae059eb868725b81dec036a93965b6dda26ade3dc43f31ca7ce693b"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6cf5daa00ff062575ae08705c691ee1cefef4ad13591aa1f67474379a5f1d75d"
+hash = "a918111ab825fa6bce4ec7a4ee41732f2690d5bd72a171a5ccf90a546c65662f"
 metafile = true
 
 [[files]]
@@ -305,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c6f6afe0d2c5bb33fe2308469775094432eb33b5e9140c1beaed51f7446002d2"
+hash = "1119738e75bdf45332c59d2dc774e192646a9207b0d9ef9798153861379db580"
 metafile = true
 
 [[files]]
