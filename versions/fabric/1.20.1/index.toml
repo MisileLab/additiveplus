@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "2a154e5cf7c4069b1fc15e38fa216821c02b31fe8340ad9ff60b4e5ca9e2b457"
+hash = "9cac70aae9c0ad27aad36f4fc10eacffce7f8b48e6a581b72da3cdbd7beda607"
 metafile = true
 
 [[files]]

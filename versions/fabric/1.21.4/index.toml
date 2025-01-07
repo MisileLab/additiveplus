@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "1983d3c4948ac283e002179fba0666bcb24fab4ad4e5aa92a9d1de6d6a4bd3ab"
+hash = "31ace44873127d8fcf90009159895ff9e8bb1c921638c2829ecc159c19e74f3a"
 metafile = true
 
 [[files]]
@@ -256,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
 metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "7246efa2739a04e4f72461293c6b7daa1d71bd96504aa25e98248388e4741edb"
+hash = "50f3d5a0d030c7b01174d0f0ce8642927d445350976b5363826110ac002fe9b1"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "805814886210c15142af2643c6e927cca553a3feca244f1be1d309630b527e2a"
+hash = "3d761931375d8a331c119af937cb11274b5fd5fb8da6bb7d997feac58ec88bdc"
 metafile = true
 
 [[files]]
