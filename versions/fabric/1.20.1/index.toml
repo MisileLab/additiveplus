@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
+hash = "6c7cfd796ed04de94465181859b963b0915e2dfce64a0c4b31129ffff505b622"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "44efbd1c8561f3431c31e7c49deb433d0a9e48e4b3dd2ed78251120ce8baa315"
+hash = "48b7bf8cff4f625864347ac4de0311b50fd867da54cf732d51b165b09a1b2af3"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "0e9b4a996662c249debac700d6f50f3f5de3c70851f9c752814233cb14375730"
+hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/shared-resources.pw.toml"
-hash = "9cac70aae9c0ad27aad36f4fc10eacffce7f8b48e6a581b72da3cdbd7beda607"
+hash = "d805718dda9fecd8d5bedec8ae4cab014860c4a2ed5d15e30d397a9193f1c1c9"
 metafile = true
 
 [[files]]
