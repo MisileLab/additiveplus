@@ -159,12 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1c5399af6c0eb9c5239862272f5d221674a58df667c583c87b234d351070554d"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "a6ffb726bb2c918b172b8c2e1d524fa3e621431242de84b07c5ed0d238332947"
+hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
 metafile = true
 
 [[files]]
