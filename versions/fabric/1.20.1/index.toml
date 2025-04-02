@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "48b7bf8cff4f625864347ac4de0311b50fd867da54cf732d51b165b09a1b2af3"
+hash = "60ed60f9aabbf48ea8cf183a1748a54b539db72e0fdbaf81575a9fa50fb4c627"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
