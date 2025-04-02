@@ -1,13 +1,13 @@
 name = "[ESF] Entity Sound Features"
-filename = "entity_sound_features_fabric_1.21.3-0.5.jar"
+filename = "entity_sound_features_fabric_1.21.4-0.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IMuO8COj/versions/FcXkMfRj/entity_sound_features_fabric_1.21.3-0.5.jar"
+url = "https://cdn.modrinth.com/data/IMuO8COj/versions/CedxvMyY/entity_sound_features_fabric_1.21.4-0.6.jar"
 hash-format = "sha512"
-hash = "80c6043fa1cd29137d04b97efc5466a7d45a8a91be499e688cbce431ad30eaaf30c2900404158fbd9e86468d496162a868a28cb2b551dfaaff125156de0b0087"
+hash = "a0d3bdfcfa2fa959bfad07f93e4055e7df698111924b0392b4ed7516b46505f258f777a3f1edf1c1ac628287e8202695be3499ad0dfe00f42454e0b6044d5906"
 
 [update]
 [update.modrinth]
 mod-id = "IMuO8COj"
-version = "FcXkMfRj"
+version = "CedxvMyY"
