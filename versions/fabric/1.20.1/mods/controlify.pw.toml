@@ -1,4 +1,4 @@
-name = "Controlify"
+name = "Controlify (Controller support)"
 filename = "controlify-2.0.4+1.20.1-fabric.jar"
 side = "client"
 
