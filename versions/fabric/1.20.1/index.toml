@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "1b45a03526e1da2588157a25168938d240e89e9dd64c3295d142ce9e9314c145"
+hash = "e7cbff32cea845401608145a6719a7fa926a739c6d696c71f59e7c1ff490448f"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "60ed60f9aabbf48ea8cf183a1748a54b539db72e0fdbaf81575a9fa50fb4c627"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c1687f3c586612a2a5ddd5670ecc469cecaf87b7f62e0bfd4727e087d46ca4d8"
+hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
 metafile = true
 
 [[files]]

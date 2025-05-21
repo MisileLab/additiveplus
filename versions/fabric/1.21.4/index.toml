@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "c41390bc223fb30f63f9e934e96ffd096f76651ae7d3dba8b201a8f50434a4af"
+hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
+hash = "8693fcbeb82c4aeb8be9a85e9cd150555a475ebca62491a2940c5e7ef092f2f3"
 metafile = true
 
 [[files]]
