@@ -114,7 +114,12 @@ hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
 file = "missing-mods"
-hash = "8e9fa8d49140759880758e142832b20c14de0afba30017d6efa58b5184ab4e8b"
+hash = "4763d5e4a3546a25b88a37b7774c5aef8b50e3ec9b379d476b1755671ee804c4"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -123,27 +128,22 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
 metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "efe9b34407e122ab02444ed4da6820984d2f015fbe2b64242f74bbce35f145d4"
-metadata = true
-
-[[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+hash = "d8a788b59e239573694e09a72c14dff19cffdd5b85671fd6722130d7f4f0e831"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fd210aacfcb5d3c0f0356b6862aec3f8afe8432624ed7454971d4350b4fa748c"
+hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "70860d28f89b84d9e2d4a58812e7227adec7203364064a21b6b2b2871f4e33bb"
+hash = "26f5191a1141d6ab470bfcbe9cfb4716da31de1e4cb9c1e3c2e5ff2512f7f3c3"
 metafile = true
 
 [[files]]
@@ -183,17 +183,17 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "f34159a6e4806f4127a6db44b859c1801ffcd37f482dd87281dc29ebbbf95806"
+hash = "4a3ea328ca3557f7bea8f8e62dbd873b0f854383e7ad88dd8d2d819e48ab9a64"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
+hash = "0197ad4eed6e562098cac85439d412ec9741af44ba5adf5018ddb3663a4d0a44"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+hash = "7c3204492c35c8036960d39d83506eff9790079c1e8a215bb02e825407f7d4a7"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7a6f0b29e5002753456d2fb78734c2a64a4713f58304df0114cd529091eb5909"
+hash = "275a1ecb11bde12b8c4c713b533230c75bc47bcffc590c5299287263d828c9b3"
 metafile = true
 
 [[files]]
@@ -233,17 +233,17 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+hash = "5a8192cd49c550ee71786080679660576b3a86e8b4e6c979c1f5cd3c2e6b138e"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
+hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
+hash = "5d6f1406628a792f100454fb8cbf3ad70a76fe58e0bdb09df3cf5e8d86e878a7"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "1f062a5111c14d98d4e847b879223faf2499b986d71b049e03fe29418e0f0f30"
+hash = "7591214280395cd292fe6c1385861c2a1d1455e89200e7f964d9aa0e4010445f"
 metafile = true
 
 [[files]]
@@ -323,12 +323,12 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "02be6214df01757d97aa6f42c8755bc2cd3ca363f66e3541cc4bda9267981d7c"
+hash = "732f7cd0b45fc78f9ebdbefae8e3768d2594c35edf5149f90ccb17350b71510f"
 metafile = true
 
 [[files]]
@@ -342,13 +342,13 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "de9a2be1f0fe4bcbb8acd06185683b7a79a0ab120254a6cc39e9a4d84520ff7f"
-metadata = true
-
-[[files]]
 file = "mods/renderscale.pw.toml"
 hash = "d6f179c5d1f8094cbc648dc1c430e330cf0e30ad81ebe082e4f06db4049867cb"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "5740f9047e34375f77e59a94b5a171aa74a6f38bc4a1d4ac6583d922922a6d68"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+hash = "ad3df3f2d0869be4a57dd7ccbeb98c3a95b941b1beb7720bb4629857b560a63e"
 metafile = true
 
 [[files]]

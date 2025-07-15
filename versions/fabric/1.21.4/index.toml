@@ -114,7 +114,12 @@ hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
 file = "missing-mods"
-hash = "bdf85b9dcc45b38e6e398aaf7888f818271ad71001072372e11900a0c4fb07e7"
+hash = "da34f9ee7c59c0d7f9af9f34119621ed49a18dea8fd9ed9c4077b1f6c3a75b31"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -123,17 +128,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
-metadata = true
-
-[[files]]
-file = "mods/animatica.pw.toml"
-hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
+file = "mods/bettercommandblockui.pw.toml"
+hash = "71eb1aaabf8edb4cbf06083dbcb88d2753f784c02210783f4292175c44df1dd9"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
+hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
@@ -319,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "8c3777fcf9615b961fa6c1f44ae002cba0d0d16cf62041ef2fa23e4e481bc56e"
+metafile = true
+
+[[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "901223deb65850b4a6b69ae06b76ccfb51fd64f158fd18dc0c797f972bea1364"
 metafile = true
 
 [[files]]

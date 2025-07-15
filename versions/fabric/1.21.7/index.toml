@@ -113,8 +113,17 @@ file = "config/yosbr/options.txt"
 hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
+file = "missing-mods"
+hash = "2410fd0c385d2ce1edeb5c72a6b2e2984adf773454b151914c387fbd59184525"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
 
 [[files]]
@@ -164,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "f34159a6e4806f4127a6db44b859c1801ffcd37f482dd87281dc29ebbbf95806"
+hash = "4a3ea328ca3557f7bea8f8e62dbd873b0f854383e7ad88dd8d2d819e48ab9a64"
 metafile = true
 
 [[files]]
@@ -189,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -218,6 +227,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "66b92cd6343956db01a532d3ef9e6bd6444c76ecf344a873c60f3cd9ab41b355"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
 metafile = true
@@ -225,6 +239,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
 metafile = true
 
 [[files]]
@@ -263,6 +287,16 @@ hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "85fe187b2b5df41af3dbdea2ffa8505c2d0f0507d8f4d6bc88621d038fceee62"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "ddeed7fa6ff29f278cd812813809acd97031f64a50edb17901f5a3c6c16c1af6"
 metafile = true
@@ -270,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
@@ -288,6 +327,11 @@ hash = "054b7edfe1c9ef143fae7c3d90bdaa1c997633e17ccf30b28d3dced35d6ff528"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
@@ -300,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
 metafile = true
 
 [[files]]
