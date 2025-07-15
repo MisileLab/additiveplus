@@ -137,11 +137,6 @@ hash = "d69de5e020139a28ca7b7256ad6f1d598ba09a1b6b051e326fc28261cf4f12b7"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "a31cc2b635c35b255f86b0136ceaea3cee0cef3f97da98edbac56dec26914e18"
-metadata = true
-
-[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "bd9b25d80589f213f180010b77b8b6e69bdcb0fb317d28a81a29ecc967426150"
 metafile = true
@@ -258,12 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e7f5e2783c982ce541742165d90ea4567e75d4ed9efdca19b92eac7140b84342"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
+hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
 
 [[files]]
@@ -298,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "605e4295a1ac4a1c4b3345370e596d4e8ee40dd22ab5ebf699f594dd247e7b94"
+hash = "fa01d0d1b480410d3b46647b676849a7c266a9a9c0fdf444cbf80eb56a559d92"
 metafile = true
 
 [[files]]
@@ -343,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "7370536bc09d9ffe1df9cb678472ea4ee7d7a8d0d5de80f723c7dfe1393abb44"
+hash = "0d0e05ceb812e6eff1b20bfcaff1ab8cebb41d58e11e942a69aee216ae77dbf7"
 metafile = true
 
 [[files]]
@@ -357,23 +347,13 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/resolution-control-plus-plus.pw.toml"
-hash = "49b4b01eb3aae1cd5c78da42945be2635d4adfe525404fdc046c8bf73d9f8b34"
+file = "mods/renderscale.pw.toml"
+hash = "fa0a4e3859dc9a65182eead78c674438f0fc4bc8bc43074a60d6ec35c709babc"
 metafile = true
 
 [[files]]
 file = "mods/screenshots.pw.toml"
 hash = "5d6f3293db98f0de887f4050f518c45f2136a8c72f7dc74f3af7f07100b228bb"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "509a129f843e72b23f7269fb940bbd757a78716d6f2350f33ebe751c40bb77f8"
-metadata = true
-
-[[files]]
-file = "mods/renderscale.pw.toml"
-hash = "fa0a4e3859dc9a65182eead78c674438f0fc4bc8bc43074a60d6ec35c709babc"
 metafile = true
 
 [[files]]
