@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "45057b44f6212e8b8bfcb7a5654a9451c8a7f136f0d1f99db80c2eba9a78afb1"
+hash = "648282cc4d2be0828a25f8917511cd72b68128828483afe6ef2cb3542df4824a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -109,10 +109,6 @@ file = "config/yosbr/options.txt"
 hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
-file = "missing-mods"
-hash = "c55e1e8c7fc26d7d692711a58c0c509d7650cba66b79f8cadec8c77f210a8146"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
@@ -194,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
+hash = "658f12b36a5591d6261f02c7465811c2d67d40e20fbe8128de4a957b24b7fdec"
 metafile = true
 
 [[files]]
@@ -204,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
+hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
 metafile = true
 
 [[files]]
@@ -334,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a53a26c43b3f96f957f0c9f2488ee58cf981ec229bdee040c419932ba273708e"
+hash = "808b33fe22c38b76ce8b566934e458c7add287ecd8121600d64deeab57459eb2"
 metafile = true
 
 [[files]]

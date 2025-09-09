@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "45057b44f6212e8b8bfcb7a5654a9451c8a7f136f0d1f99db80c2eba9a78afb1"
+hash = "648282cc4d2be0828a25f8917511cd72b68128828483afe6ef2cb3542df4824a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-highlighting.pw.toml"
-hash = "87307591907c2d2e9831617c0447c17934273983b91a33539dd25ab1ccee2b20"
+hash = "872bd05ea7c321acbbeb126f5d92fe42cd49df94b6a62ea4b9aa84578c6c5cb2"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a1cd367df21e2a8ec5f99a3fafab021f927bdfb088cc518d8225b02078f36728"
+hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
+hash = "f1d9c0910c3172c83058cc6d9af49e9b8dd9a6e410b0113e41077a373a0646a0"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
+hash = "91f45174d8627de2d04922bcf83b4b7c31188fbfc748240fcca27ea4f3282e93"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "031743fe4b9dde448acc3e3b8cfcde7bef052c2b25b3a5506aae8da3b9ac6166"
+hash = "c8d5d859a561c0adaf3c294283b35abe891accb348b9fa5046addce310072f54"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "f8a4208d9cb40af6ad94428f2bc83a6f0b5713e8344d04898e834faa510ff2da"
+hash = "79a6d1e1f7f067c36cbb2e16465eeeda65874fc6e8606efeff6eedba9f485fcc"
 metafile = true
 
 [[files]]
