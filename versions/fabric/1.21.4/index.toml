@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2286065b5d4f3768c403a911587f30cf8bd31bada1292eea2ffbb0b8ef5f4bfb"
+hash = "308f3d9c65970793718dee28298aae0f2bdd168abd78c6f2c394307e8455d870"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
+hash = "02551a8ead8bb69124fc6c20e0c557b07d6e50f8aaa0b7f586d8300e6f535e98"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
+hash = "2f9f9ae2453a22b27d8a7eef2de12a1c0c17c6783c77a52bf76aeb6b75c96ab5"
 metafile = true
 
 [[files]]

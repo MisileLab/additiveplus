@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "_missing-mods"
+hash = "07b7b6b965a2fe80b175f27c7ea71faffc29752d4d2b15aa09ce4a4a969492b1"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4bf70511dd1f8714bb20de8a543655067240cb821fcbf0f955595ff4a519534e"
+hash = "21a445bd9a9f3639d97145927012a01b83eafdee00757f2cd5ad1cb9cde6638a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -109,6 +113,10 @@ file = "config/yosbr/options.txt"
 hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
+file = "missing-mods"
+hash = "4763d5e4a3546a25b88a37b7774c5aef8b50e3ec9b379d476b1755671ee804c4"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
@@ -170,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
 metafile = true
 
 [[files]]
@@ -180,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+hash = "84f74d4abc0ece0ed9f62d9454d35415ace97e0aa83ed3e8a2d1ff7167b45999"
 metafile = true
 
 [[files]]
@@ -190,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2286065b5d4f3768c403a911587f30cf8bd31bada1292eea2ffbb0b8ef5f4bfb"
+hash = "308f3d9c65970793718dee28298aae0f2bdd168abd78c6f2c394307e8455d870"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ac15d0873dd1f711e886f07f463b2bd9912940a344ef4dd4219aa456ba4760e4"
+hash = "a94078a8e2634443b5b1ead28e2b2e47ab431bfe9ce3f6fc883d4a37a11cd5f6"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f2d2dd0de19a6b32d96c89edf875f1c40c2b949be575a5b82ce2da58750c2190"
+hash = "b55511b63c3a96312211d26b75574d0d420035b0f30eedb40e3e12b1f42cb0a0"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "175e1ae75e5745024f2f7da5dd359f3cef63df4f438b27ad868094c5556c652c"
+hash = "dcca58119c922191ea3a38d7397ce7f584c32f0346316f6c8667d9f5d6617d3b"
 metafile = true
 
 [[files]]
