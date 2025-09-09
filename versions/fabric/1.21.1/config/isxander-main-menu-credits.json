@@ -2,10 +2,10 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "Additive 1.37.0",
+				"text": "BasicCraft 1.37.0",
 				"clickEvent": {
 					"action": "open_url",
-					"value": "https://modrinth.com/modpack/additive"
+					"value": "https://modrinth.com/modpack/basiccraft"
 				}
 			}
 		]
