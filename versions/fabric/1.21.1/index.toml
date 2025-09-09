@@ -128,6 +128,11 @@ hash = "c92c73551dc3ba9f116e0cef1e90bb553bf59f34530c7c281af28ac624a3a9d6"
 metafile = true
 
 [[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "872bd05ea7c321acbbeb126f5d92fe42cd49df94b6a62ea4b9aa84578c6c5cb2"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "d69de5e020139a28ca7b7256ad6f1d598ba09a1b6b051e326fc28261cf4f12b7"
 metafile = true
@@ -149,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "9831c303787202296c85b548c9139a5f2c67471f22bad772a5da55b5859036e3"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
