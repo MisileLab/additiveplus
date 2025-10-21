@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
+hash = "7eb6b5ee57865d6221be3c428f5a0c4e449f4c86920e9f8736b4f755d7822edf"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0b40c584f98d0cbeabe1d5842fffe6b5785a15fd8bc8ae702dc90cf431254326"
+hash = "0ef35132e215a55f7fed6706bedae2b7257662a0354b98e26b75cf3cbcec38e4"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "85f465bc8bdcd62e413c8dd8e7b41a07b1f0adb4e02d15fb17abe0072128759b"
+hash = "be7240c21a4acd8de01d7f6f93be18ca2a233917d32e6f6205f788432525a570"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
+hash = "95de24f2f2d9c9fa4dcb33660bd6fafb2101a5514f718d00b207f48da26b64cf"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6c61882bbd734f1260d930c860ecd183e089e3d878c4faccee0f73acf65c18b1"
+hash = "3c0af77fdf001f163ffb0ca6113c2493b2d67b35ed02068e96753c5d28d9f599"
 metafile = true
 
 [[files]]

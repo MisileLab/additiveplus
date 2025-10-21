@@ -1,5 +1,5 @@
 name = "Fix Keyboard on Linux"
-filename = "fix-keyboard-on-linux-1.0.1.jar"
+filename = "fix-keyboard-on-linux-1.0.2.jar"
 side = "client"
 
 [download]
@@ -10,4 +10,4 @@ hash = "f2ac896e53cdfdeb5f36362e644470e71b0ba7d47cb088b693e0230fe396dbcbfd938ea9
 [update]
 [update.modrinth]
 mod-id = "siXFh9dn"
-version = "ZKDQu5sd"
+version = "hoSPSRQf"
