@@ -1,6 +1,6 @@
 name = "BasicCraft"
 author = "SkywardMC"
-version = "1.37.0+1.21.5.fabric"
+version = "1.38.0+1.21.5.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "cc398fab40240614697cabadd137fd2cc94eebbeffb214b310b026dd1d513b9c"
 
 [versions]
-fabric = "0.17.2"
+fabric = "0.17.3"
 minecraft = "1.21.5"
