@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "648282cc4d2be0828a25f8917511cd72b68128828483afe6ef2cb3542df4824a"
+hash = "456e959d27a8da1083574553a757c0c33adf3d06137260e01850c3ed3a2c851a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c8d5d859a561c0adaf3c294283b35abe891accb348b9fa5046addce310072f54"
+hash = "af6eaab98773ce23fc4f463f6000265ae8e281b56c670bb05322b1e92954ae7c"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "79a6d1e1f7f067c36cbb2e16465eeeda65874fc6e8606efeff6eedba9f485fcc"
+hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "308f3d9c65970793718dee28298aae0f2bdd168abd78c6f2c394307e8455d870"
+hash = "80920e7f25490ed3289314a391e4c83f2f7b5630d75b49a30353eab88659466d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -229,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "5a8192cd49c550ee71786080679660576b3a86e8b4e6c979c1f5cd3c2e6b138e"
+hash = "249bfdcc14f0977e54a785a5686334b909f19c0d10dc9f15d01bfaa759fa74f2"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
+hash = "d6c762a1ae9e43903416e37af42f63f1c485051b77d44c5501a2097c1149b630"
 metafile = true
 
 [[files]]
