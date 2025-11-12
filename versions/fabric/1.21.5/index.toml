@@ -308,6 +308,11 @@ hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
 metafile = true
 
 [[files]]
+file = "mods/nuit.pw.toml"
+hash = "60618900d0ec75ea05b70403860cd161c736a5cd26f533872fba13a7c7c72206"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "f3fed79c2202640ba765776f517451ac9f4d8a7c552b2e755b4b001198677cb5"
 metafile = true
@@ -379,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
