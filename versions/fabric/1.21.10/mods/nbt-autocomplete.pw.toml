@@ -1,0 +1,13 @@
+name = "NBT Autocomplete"
+filename = "NBTac-FABRIC-1.21.9-1.3.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UR0ocuEt/versions/mOcN222A/NBTac-FABRIC-1.21.9-1.3.13.jar"
+hash-format = "sha512"
+hash = "f42c82f034d64ed7c43370b460e7c12bc5fd3a0532d0d03b29b32e1639038e6164875c6f4c7a5f64564aa46ac7943f70139f97691aea255b6c683508896b1751"
+
+[update]
+[update.modrinth]
+mod-id = "UR0ocuEt"
+version = "mOcN222A"
