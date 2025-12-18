@@ -305,6 +305,11 @@ hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "dc06a805d232c713c7a790cd21c5acb9ce59ced14c3e65bfc55e47f7d292911c"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a59c8c9b07609b40f86f5f7f7b4b6815c2c96bd670d3026232bbaf8afef419d5"
 metafile = true
