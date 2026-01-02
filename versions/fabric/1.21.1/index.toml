@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0723ac190dd6838c7c3bb10dbfc5f58ec213f4f8ba12298076c1dc33be5426c2"
+hash = "62855f68e8e6e6b26e1434655e38f632171cec49621592db8dac451865770aef"
 metafile = true
 
 [[files]]
@@ -186,17 +186,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4898b9beb1b7cf7df38346b02d9756c10e09408b6344e3295fe7177b25549f14"
+hash = "dde1c3036a0cc2c280e2254a5ffd647fbae47dd72c77dd564f35d791d6d21709"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a5f087c8dc28d4cc2c16009533a24c08fb7acf06b820804ba2a2a3b80e6a913c"
+hash = "4afa048a3c67c71e2dd6ac89d5b77066069a2ecaeee59618020b151a6fa7aab9"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1824d1cc8f4f82a88972b9220dc6806c05968d651fb38f6bfe69e4d8215fc0ed"
+hash = "2ada3ac958fb2beff2e913d3094a06cab1b6a794de0e4132b014437d409af397"
 metafile = true
 
 [[files]]
@@ -326,12 +326,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "eb504c0cb2cf332ea461c65f93d3d7dfe8b8412c1d253e2015c5d76e6d48a559"
+hash = "9d68782624dadddacfd248604944572d450e4b90dcec55329829717b837af1db"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "2aabb44c8d1f765ba68c212df86d3615f0eb331354614ab935298cef63b79224"
+hash = "d4ad5c4462a3ee981f6ac3eff82c3cc1d6f08b3c01c99e16face1261a6161684"
 metafile = true
 
 [[files]]
