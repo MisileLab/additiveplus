@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8a44858936c52a8013a58b4792732520ed942d67cd3670e5f9f2357e1fb9faf1"
+hash = "ebe4d6a52b8f75caf5e8d226ead7470cf17044944d09bf4b03c0f84025add4f6"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -23,6 +23,10 @@ hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
 hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "7823fc7bb5b474d3a39a2ff8e71054812499439cef63fbaa7124930de296c7cf"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -140,8 +144,8 @@ hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
 
 [[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "e301074b3e9325f4394ceca0c4ae02b11ff2e80aeb4ca6a61ac8bde1619c03f8"
+file = "mods/capes.pw.toml"
+hash = "49c1c5602bb00e9b91e673cf7e8eaed65ad08f9b80e5af4deeb8a9236dbcc97b"
 metafile = true
 
 [[files]]
@@ -156,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "fea88dacd90b345c7eeb238bcdacbba20a20d3efba6ee97096826058d5b411a0"
+hash = "87217289681e9427cc0e64fa41a193a795a37d363501dcf030a2f71e48b2eebb"
 metafile = true
 
 [[files]]
@@ -176,17 +180,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
+hash = "b7f3af0e77e5a5a32d5c8a4884e6e3792e418e10119bdfa9f7416da3e7000c2e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "24736da2a0ac8558dc6ead49d32b863bdb83cfa53fa547d85ab6f3421f1a8fa6"
+hash = "b730fc28c1b70d3304d81dd26e7dd1af73f3486d5979f8cec7af5dbb9588a936"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6d74eac8e7c0d542a37681dc808a1af1213fd91b5a9361cca1274d7426bb278e"
+hash = "05c4bab9b066b825a39ea67731ff5af15dfae112e1a7b17542f518bf72dd27a7"
 metafile = true
 
 [[files]]
@@ -276,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
 metafile = true
 
 [[files]]
@@ -311,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "a59c8c9b07609b40f86f5f7f7b4b6815c2c96bd670d3026232bbaf8afef419d5"
+hash = "f7b08d94e748fc7394ba1b050818fa43524f9da201b7143e875dcdd3d2fac631"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 name = "Controlify (Controller support)"
 filename = "controlify-2.1.2+1.20.1-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/gYWWawgz/controlify-2.1.2%2B1.20.1-fabric.jar"
