@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "f9c21dba8b3618c0737b6b3b602bb895a5bd2c819b8d7e324f507f7ee3dea131"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ebe4d6a52b8f75caf5e8d226ead7470cf17044944d09bf4b03c0f84025add4f6"
+hash = "8da8960d50a9e68ed703f9851311648812b24b89b658b2f5bdccc9b56f482451"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -129,6 +137,11 @@ hash = "6446c5ee6bbb7de5546b0296d86195b16e1479c0cb710bbb135d871c2cf24ca1"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "13afe1299cb5fe3373051757f16c51c9b9213aa298687ea61dac964e9bd211a4"
 metafile = true
@@ -180,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b7f3af0e77e5a5a32d5c8a4884e6e3792e418e10119bdfa9f7416da3e7000c2e"
+hash = "bf8c7e7fe9dd109e923b78780df29d49a1e057387a51d85dadeb1d86e784d223"
 metafile = true
 
 [[files]]
@@ -190,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "05c4bab9b066b825a39ea67731ff5af15dfae112e1a7b17542f518bf72dd27a7"
+hash = "bc93381428d6407f5c6fa7e49ea01818e85e48083bdcdd3a5d87b2176977e9fd"
 metafile = true
 
 [[files]]
@@ -205,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -215,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
 metafile = true
 
 [[files]]
@@ -230,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "77364cc74f5c0819ef77e5e2fd11bd304ad98dc193348d3d875e23fae62f8f74"
+hash = "db46aeba51086f72e755106ca1a2196717ddb3844dfd7b781e7a93c57a9d5b32"
 metafile = true
 
 [[files]]
@@ -276,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "84ca48611902643c3934139e0dce480294b2f2e891cf797fede0607d5b9f6dfa"
 metafile = true
 
 [[files]]
@@ -356,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "5380963b0d14f7af979e64a40e48cbb94603c7b16cbd47229327304bca30ab7e"
 metafile = true
 
 [[files]]
