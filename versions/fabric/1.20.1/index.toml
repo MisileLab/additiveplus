@@ -5,8 +5,12 @@ file = "config/crash_assistant/config.toml"
 hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "3a5fc66a753980f250b64ee0f127d221ce3ecab7b42eec45efff9127fc515594"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2cee7d95d78c5d08740184a068518cb7eb7e62cf2acd1044c579656774f7e58c"
+hash = "43b015a318977d76c9a7478c82f234e5cc91d8018a3546caa44e11a8731dc43b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -120,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
 
 [[files]]
@@ -349,11 +353,6 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
-metafile = true
-
-[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "a0b2b689e7e6eb10cd342da48dd605cfbe09d782790a42089f31835a54e37b1a"
 metafile = true
@@ -370,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "110ba5640465b8b3b4987967e6f802a96aaaca37bf7a1cb89a876d4523a61fcc"
+hash = "b7fbd8965f414bdff009887446e5c32cbc24f7d1ab9c64dcf6af4e227941d063"
 metafile = true
 
 [[files]]
@@ -399,13 +398,13 @@ hash = "ff11fb66e72565d694be162b6df3a3ca16f21bee82d3d0480da3ecf37c807fcc"
 metafile = true
 
 [[files]]
-file = "mods/shared-resources.pw.toml"
-hash = "d805718dda9fecd8d5bedec8ae4cab014860c4a2ed5d15e30d397a9193f1c1c9"
+file = "mods/servercore.pw.toml"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
+file = "mods/shared-resources.pw.toml"
+hash = "d805718dda9fecd8d5bedec8ae4cab014860c4a2ed5d15e30d397a9193f1c1c9"
 metafile = true
 
 [[files]]
@@ -455,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "33500c6577b5a83808da55dac95cbe731bc771be2db59e4754d24a86cc15e6a8"
+hash = "4973fb1fdfdb2366864397db1213d2dd81ff80d1ee430012faef15c48625fd2a"
 metafile = true
 
 [[files]]

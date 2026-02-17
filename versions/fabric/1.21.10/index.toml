@@ -132,13 +132,13 @@ hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
 metafile = true
 
 [[files]]
-file = "mods/bettercommandblockui.pw.toml"
-hash = "6446c5ee6bbb7de5546b0296d86195b16e1479c0cb710bbb135d871c2cf24ca1"
+file = "mods/better-block-entities.pw.toml"
+hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
+file = "mods/bettercommandblockui.pw.toml"
+hash = "6446c5ee6bbb7de5546b0296d86195b16e1479c0cb710bbb135d871c2cf24ca1"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+hash = "97e98555e9abfc88913c5e40180e466c5fcb51a62706f43880c25b954d16c700"
 metafile = true
 
 [[files]]
@@ -173,7 +173,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4fde48c62b06dad2e857c010d3f0319ab9d7a3dc7e90821544b719d800914061"
+hash = "b28163b3de881e3b59215e7a9613900235ed698e0b252a919833f12ce9f58a8b"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "a22ba7c148744fe8c1ed7580e95e9a285bd71b2b1c2f66ab9d89c5d43e1498f1"
 metafile = true
 
 [[files]]
@@ -183,7 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
+hash = "0cadf1632a675a92e0bbfb060e807c07595bda05526da8a361d782878b510e6b"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
 metafile = true
 
 [[files]]
@@ -258,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
 metafile = true
 
 [[files]]
@@ -323,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
@@ -347,6 +357,11 @@ hash = "c72134131fd9f582fe9edd7aa284de872193a68e44bbd8cb570956ea79d94592"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "4e8594e405f040e73813e5dbb0eb0d5f0f326f8ba07b27f2e8698b22598aa94e"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "a112d883056e0934ca5f7d8718f5a2c5cf9d6d63ecb7e91754ba9dcee7bb799e"
 metafile = true
@@ -363,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "1750b72e8ece77b5676ed18ffce81d0fd4df89e8bbde63ef8cc328df87bb9277"
+hash = "55357dc2a4600d1d41da56e732cea49fae96b4975c4be4ac8fc89a38dff7d958"
 metafile = true
 
 [[files]]

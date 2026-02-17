@@ -10,7 +10,7 @@ hash = "39bc5f92d69c8e8208d67504c0332d2a279f60c8eec3b0d891686b0f4ff21886"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5bb933b102597fd4f826061703588583e1b81b88ee3ef181ce9ac6377c0aed6a"
+hash = "43b015a318977d76c9a7478c82f234e5cc91d8018a3546caa44e11a8731dc43b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -174,7 +174,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cc49cd6a7e284c67a8a45b596eb598248232f6fc7071b9ef65d0db6996d2706e"
+hash = "d1af102f2cc6a88fd570096bf41ae433a14623bc74a67b06733d5eb9802c94bb"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "d8e661ae0f24fb32dc1fe9096e6acdf5e2801336aee7de0d9a479d167543cd83"
 metafile = true
 
 [[files]]
@@ -184,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7c9d9ae612abbb7593b3d5b8306442b87c381fa38efbef2fcbf17e8669552cdc"
+hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
 
 [[files]]
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "6492b21e2a58e97ab65ff384db18606ce317ea3b78fad7051e6e34899fe8e85b"
+hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
 metafile = true
 
 [[files]]
@@ -318,11 +323,6 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
-metafile = true
-
-[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "533cc65290311d51c42bfa7a5a700254db6401ae5a90829fb7863b17db9665d1"
 metafile = true
@@ -363,13 +363,13 @@ hash = "7c9846385d08af6c3a44efa155c0d29ac648b6fb41b4ba97b3d95416d2db3f6c"
 metafile = true
 
 [[files]]
-file = "mods/screenshots.pw.toml"
-hash = "5d6f3293db98f0de887f4050f518c45f2136a8c72f7dc74f3af7f07100b228bb"
+file = "mods/scalablelux.pw.toml"
+hash = "fe940e70dad29aa8b5e57d9679d7503009d56b1890dbc25194b4d278cbfaae5e"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "fe940e70dad29aa8b5e57d9679d7503009d56b1890dbc25194b4d278cbfaae5e"
+file = "mods/screenshots.pw.toml"
+hash = "5d6f3293db98f0de887f4050f518c45f2136a8c72f7dc74f3af7f07100b228bb"
 metafile = true
 
 [[files]]
