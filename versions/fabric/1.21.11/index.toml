@@ -114,7 +114,7 @@ hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
 file = "missing-mods"
-hash = "5667b8cb2f3f4cdf602fd62e192a373d92e5d72b36caee1754c6c93d0774fc6d"
+hash = "5fbbbbcd6be5e2bceda1cf9adb4e75190cd9d15f0c47ce0b8b30241f1fe27d21"
 
 [[files]]
 file = "mods/animatica.pw.toml"
