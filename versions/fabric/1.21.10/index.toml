@@ -10,7 +10,7 @@ hash = "7c02ad1fd5dd18b39d6a341f2ad92180ff9d755f50c3bdcca42b2d24c8bf4c1f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
+hash = "b006b3ffc41c7c13ecb4977c16e0221410220b321f4da4b2861f8dc8eee5384c"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
@@ -78,8 +78,8 @@ hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
+file = "mods/appleskin.pw.toml"
+hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
@@ -198,13 +198,13 @@ hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
 metafile = true
 
 [[files]]
-file = "mods/gamma-utils.pw.toml"
-hash = "cc4a12cee04af27f3ca40ebe8d9509292a35f7b944cb5892de9adfaeecae6fda"
+file = "mods/fzzy-config.pw.toml"
+hash = "e27ebce7267fbba8f0216424b21f041bc6c77a773d71848963c41d7a93e02c51"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "e27ebce7267fbba8f0216424b21f041bc6c77a773d71848963c41d7a93e02c51"
+file = "mods/gamma-utils.pw.toml"
+hash = "cc4a12cee04af27f3ca40ebe8d9509292a35f7b944cb5892de9adfaeecae6fda"
 metafile = true
 
 [[files]]
@@ -288,13 +288,13 @@ hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+file = "mods/particle-core.pw.toml"
+hash = "6e950bf32b4589d8c966b9e6a2a0a268000897db09dc093f0cabd0ea77bb95a6"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "6e950bf32b4589d8c966b9e6a2a0a268000897db09dc093f0cabd0ea77bb95a6"
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
