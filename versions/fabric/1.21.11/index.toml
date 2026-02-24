@@ -10,7 +10,7 @@ hash = "07f9236df26ac8dc47fbe5f5b5466f64a9dd1880e8bd549b78970b3dc44786e7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
+hash = "b006b3ffc41c7c13ecb4977c16e0221410220b321f4da4b2861f8dc8eee5384c"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
@@ -82,8 +82,8 @@ hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
+file = "mods/appleskin.pw.toml"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
@@ -212,13 +212,13 @@ hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
 metafile = true
 
 [[files]]
-file = "mods/gamma-utils.pw.toml"
-hash = "13e8a24074dcdab4b26b834f9d3ff8ce56a8aa1e8f743d1d1836d423b9f9a2e1"
+file = "mods/fzzy-config.pw.toml"
+hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
+file = "mods/gamma-utils.pw.toml"
+hash = "13e8a24074dcdab4b26b834f9d3ff8ce56a8aa1e8f743d1d1836d423b9f9a2e1"
 metafile = true
 
 [[files]]
@@ -307,18 +307,18 @@ hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
-hash = "f4aa82dec5064cd5ae70bfc97fe703ee222b5780be0fc99c9eb75f30e370f49a"
+hash = "44a47033d8f1e2d4ce103790ba8225c092be761030c1a422942fd464fbcc8f91"
 metafile = true
 
 [[files]]
