@@ -2,7 +2,7 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "BasicCraft 1.41.3",
+				"text": "BasicCraft 1.42.0",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://modrinth.com/modpack/basiccraft"
