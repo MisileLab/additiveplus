@@ -10,7 +10,7 @@ hash = "d0d7408fd198fe4d9091d8a31d137bf0c06fb2f085c07779cb5606731a0f8fa7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a30646c8fe299a3ff012ef7061bab5c1ac2620f284f688c2a87d742bfe1bb035"
+hash = "b45863db6b6a3d4684d43e3aa7cfaca2c02e915cdcccb567172c0c7a3e0ffc9d"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
@@ -265,6 +265,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6f9c7fd82681111859ff63446dc8327447adeaad84e9cfb534955afb5eb6c81a"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "fde4df0911b93070e3d0b166c41e33db6daaae9f029fcaf9a210be447122a07e"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]

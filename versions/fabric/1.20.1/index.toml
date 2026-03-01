@@ -10,7 +10,7 @@ hash = "f0057e0fce66896dfc85c6fab4071b6824cad32a092ec7e82e24464624e43dd8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9dd9f7d7d70ec4b1eb4c0a37b03921c5cf4acc0fc9e342f8bbdbdd85c241377c"
+hash = "b4bf2c0c29f0e2df7918f0f3754707faf33928ebdc7101ea573e20d37a889aea"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -356,11 +356,6 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/resolution-control-plus.pw.toml"
-hash = "69f4fe4d4ded744be3007514d94c5aa9fcfe9de81e0e80e31de3e8c45c234715"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
@@ -422,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "4973fb1fdfdb2366864397db1213d2dd81ff80d1ee430012faef15c48625fd2a"
+hash = "8ccd17daba5bfc3c5ec95a7b143d4e65b5e723435921d2e201c5ff4270c80219"
 metafile = true
 
 [[files]]
