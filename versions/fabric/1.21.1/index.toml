@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b4bf2c0c29f0e2df7918f0f3754707faf33928ebdc7101ea573e20d37a889aea"
+hash = "8ad549684ebb350fea175389613ddc4a69d9ff5395b2f71e307d4c492e00efd9"
 
 [[files]]
 file = "config/modpack_defaults/config/bettergrass.json"
@@ -22,7 +22,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5d38f19d70ae625afa8cf888ed5ab15050e9af64173b7f3cba87f9ffa12986d5"
+hash = "6ece4142d7f5779796021efe841440fc00daefa3861c0025b3ac0e2a4242433f"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
+hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
 metafile = true
 
 [[files]]
@@ -232,13 +232,13 @@ hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
+file = "mods/ixeris.pw.toml"
+hash = "ad8b9e9a153fa911de7b4964ded92b2840286a967d3c383f266897fe776bf634"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "f83bac5910818c6f63f2d9a779a7d04133880f5fbbe998d2eed35f21aa56c745"
+file = "mods/jade.pw.toml"
+hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
+hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
 metafile = true
 
 [[files]]

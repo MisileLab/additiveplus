@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b4bf2c0c29f0e2df7918f0f3754707faf33928ebdc7101ea573e20d37a889aea"
+hash = "8ad549684ebb350fea175389613ddc4a69d9ff5395b2f71e307d4c492e00efd9"
 
 [[files]]
 file = "config/modpack_defaults/config/bettergrass.json5"
@@ -22,7 +22,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5d38f19d70ae625afa8cf888ed5ab15050e9af64173b7f3cba87f9ffa12986d5"
+hash = "6ece4142d7f5779796021efe841440fc00daefa3861c0025b3ac0e2a4242433f"
 
 [[files]]
 file = "config/modpack_defaults/config/cull-less-leaves.json"
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "0db309b4463cafceaa25183800a27715198820055bdc09d8e5fa048dea450ed2"
+hash = "7c696218d77b3308c4dd27f465eb9f726618360f57f95a3bdd6e13c5f4750007"
 metafile = true
 
 [[files]]
@@ -266,13 +266,13 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+file = "mods/ixeris.pw.toml"
+hash = "7f22a44fc2d143975539bbefa3744db4cc546d1c90d21e92338ef7bd57c0e67f"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "4e4f32d10bc8bc6c910a25154acbe2ab942adbc74c20d8c735fec12d7824e9f8"
+file = "mods/jade.pw.toml"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
