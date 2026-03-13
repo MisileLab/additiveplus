@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b45863db6b6a3d4684d43e3aa7cfaca2c02e915cdcccb567172c0c7a3e0ffc9d"
+hash = "24560741e5314b9d877f4459cab72ac0fb0f1fa826ac4d7cb4e7dc0e3a797747"
 
 [[files]]
 file = "config/modpack_defaults/config/bettergrass.json"
@@ -22,7 +22,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5d38f19d70ae625afa8cf888ed5ab15050e9af64173b7f3cba87f9ffa12986d5"
+hash = "bcd275be48a1ddf76128070108682f5ea10271260b70fae817eef4bae4b5b2cc"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
+hash = "262616993036070ec268b708a65f29420d54a8fb2fa55dffe6ebaa4169d84776"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
+hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
 metafile = true
 
 [[files]]
@@ -223,13 +223,13 @@ hash = "fecd2e19a6afd8109bb6cfc281d158e3f7a5d6646a99340e2ece5d1aaece4edc"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
+file = "mods/ixeris.pw.toml"
+hash = "b991c371a0197702d8bd22b5d841474efdd9a233f5fdf2b8a905c27512262b46"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "35046c4e24fe750c6f5e7531db105eb825e4fa45c182b4301af059b2f26cb239"
+file = "mods/jade.pw.toml"
+hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "91f713302015a5f06243d6c25ed4568b03934d190369c8399761a496fff27f75"
+hash = "32578431c8433601b741a9658e9c055570d7c0c5b6eece13ce8ffb5ac6bb9079"
 metafile = true
 
 [[files]]

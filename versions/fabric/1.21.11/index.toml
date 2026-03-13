@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b45863db6b6a3d4684d43e3aa7cfaca2c02e915cdcccb567172c0c7a3e0ffc9d"
+hash = "24560741e5314b9d877f4459cab72ac0fb0f1fa826ac4d7cb4e7dc0e3a797747"
 
 [[files]]
 file = "config/modpack_defaults/config/bettergrass.json"
@@ -22,7 +22,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5d38f19d70ae625afa8cf888ed5ab15050e9af64173b7f3cba87f9ffa12986d5"
+hash = "6ece4142d7f5779796021efe841440fc00daefa3861c0025b3ac0e2a4242433f"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -99,12 +99,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "05bf055f310ec3c416d592b36a5f8877d7e0f3f6b22813d58c9799903ef631fb"
+hash = "b37ecd626251b32c8f0b692ac57a83d1e1c2b7fe2172ddf0bdec61c573614b26"
 metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
+hash = "262616993036070ec268b708a65f29420d54a8fb2fa55dffe6ebaa4169d84776"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
+hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
 metafile = true
 
 [[files]]
@@ -233,13 +233,13 @@ hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "40c04a15c3ee0b278fd4c0bafd56a1d4ba4d4b609701a078c1f8dbda678c58a6"
+file = "mods/ixeris.pw.toml"
+hash = "b991c371a0197702d8bd22b5d841474efdd9a233f5fdf2b8a905c27512262b46"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "35046c4e24fe750c6f5e7531db105eb825e4fa45c182b4301af059b2f26cb239"
+file = "mods/jade.pw.toml"
+hash = "c8ac2814188e2fa91cdfc98d1ae77e73a3b11e019f9c576dac8c46ebc4098a37"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
+hash = "f13c7f723c3a50ea547a409d54065cc93322d700e260deeafb92d7bfd51f9ac1"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "85fa577d4b139a7ec47bc75c94ab71342c2c8b46cded470d9cce6d04a8fd757d"
+hash = "03313ec2416d1ad17f51e966e90ac22c360ffe6f22f9f62767b29512d7505cf5"
 metafile = true
 
 [[files]]
