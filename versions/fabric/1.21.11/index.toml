@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "24560741e5314b9d877f4459cab72ac0fb0f1fa826ac4d7cb4e7dc0e3a797747"
-
-[[files]]
-file = "config/modpack_defaults/config/bettergrass.json"
-hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
+hash = "58cc4252f7aec84813140c5aa2849eeac375162355c2f882325bb78f4397d9a9"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -42,7 +38,11 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "dbcbfb5ab7ee9272da2dcfa7eeccdb4bfc6c075ea7b3fe513b4598da6d6242ae"
+hash = "58cc4252f7aec84813140c5aa2849eeac375162355c2f882325bb78f4397d9a9"
+
+[[files]]
+file = "config/modpack_defaults/config/lambdabettergrass.toml"
+hash = "cbda9db36a2ecc4de61d8efa9701cc59aded9b8d910d50391f7cffe4f628addb"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
@@ -88,16 +88,6 @@ hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
 metafile = true
 
 [[files]]
-file = "mods/bettercommandblockui.pw.toml"
-hash = "cb452d78801aba186caee80fe25de1ad39b4b9b31ca42bccd6f12bf54fbfef2c"
-metafile = true
-
-[[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "17e7de63579b066cea4b6db60318617956c1925891edc562085cd72544a763b9"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b37ecd626251b32c8f0b692ac57a83d1e1c2b7fe2172ddf0bdec61c573614b26"
 metafile = true
@@ -134,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "8fc579768f43217f0d9a300c29daacc71313254b26a29e22db90912b8d6e7a11"
+hash = "797068051b88595d3342b8a777cca15eb5bc03cc5c9ccdde9934389c2a71555c"
 metafile = true
 
 [[files]]
@@ -198,6 +188,11 @@ hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4657d883a293eff316a0a2a84da0d8b6f49ca1dee9611c86be513ae96ca33a89"
 metafile = true
@@ -245,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0833776555b4b584bd9c3bfdef11e7cec165c7d902ef6c7cd7b2fbb06fa67144"
 metafile = true
 
 [[files]]
@@ -328,6 +328,11 @@ hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "b6bda8317d9911686487decf305e8addb2eb415fe9df2428d7fb34bc324cc6b6"
+metafile = true
+
+[[files]]
 file = "mods/renderscale.pw.toml"
 hash = "b4c4f1163795d12bb392a2645b886b6afc6e7b3e4d28af4968a6ca0c74fcb606"
 metafile = true
@@ -369,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "03313ec2416d1ad17f51e966e90ac22c360ffe6f22f9f62767b29512d7505cf5"
+hash = "e5ec1b319368c97f4adeee0861ebb020e9837f64fa0c42969f823a250ab7e6c7"
 metafile = true
 
 [[files]]
