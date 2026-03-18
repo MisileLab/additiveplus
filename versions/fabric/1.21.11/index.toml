@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "58cc4252f7aec84813140c5aa2849eeac375162355c2f882325bb78f4397d9a9"
+hash = "6e2c509a8eaa0cf5fcac1fc53a5333cb89d673f11a4dd0506315d26875d6e5df"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -85,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "cb452d78801aba186caee80fe25de1ad39b4b9b31ca42bccd6f12bf54fbfef2c"
 metafile = true
 
 [[files]]
@@ -229,12 +234,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b991c371a0197702d8bd22b5d841474efdd9a233f5fdf2b8a905c27512262b46"
+hash = "15a9d89a713cfd48f16183a7b631739609d2268b33516e64db760ce5f4064a1f"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c8ac2814188e2fa91cdfc98d1ae77e73a3b11e019f9c576dac8c46ebc4098a37"
+hash = "3a4bdf4855b2c2bcab556507cd5f61fa8915cc0aa8519821efd09143b24235fb"
 metafile = true
 
 [[files]]

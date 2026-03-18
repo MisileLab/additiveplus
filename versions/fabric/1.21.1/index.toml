@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "58cc4252f7aec84813140c5aa2849eeac375162355c2f882325bb78f4397d9a9"
+hash = "161901834d536a49a7329f27b5fc5e35253e38ae5d7b77222197bdcb6c16f3e4"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -79,6 +79,21 @@ hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
+metafile = true
+
+[[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "a4c4bebcbebd06e20a5db0e0acb296987e9af9435969fb669cfe175c0e8769cd"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "d69de5e020139a28ca7b7256ad6f1d598ba09a1b6b051e326fc28261cf4f12b7"
 metafile = true
 
 [[files]]
@@ -218,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "ad8b9e9a153fa911de7b4964ded92b2840286a967d3c383f266897fe776bf634"
+hash = "0eadff509e0f1d39082004e096a0232c0f7994a3ce0b617386702706c1c6ddea"
 metafile = true
 
 [[files]]
