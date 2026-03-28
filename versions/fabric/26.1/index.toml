@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "40853c4d0190ebcec40a7aac443a2a94b5c7543ded0a6f83e6e9a6e7d2cb2d49"
+hash = "6e2c509a8eaa0cf5fcac1fc53a5333cb89d673f11a4dd0506315d26875d6e5df"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -18,7 +18,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "8176e59e9a04650de19a7232caa692ccb90a6276d91e63586c99171c2df993d1"
+hash = "186e30ebafc2f2c7ed2b860fb09698b2f1388274ffea53a021111d54e71cdee7"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "40853c4d0190ebcec40a7aac443a2a94b5c7543ded0a6f83e6e9a6e7d2cb2d49"
+hash = "b023815114c056791cf9aab1aac284df9b66e6bd3dbca9349fa1974ab80160b2"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
