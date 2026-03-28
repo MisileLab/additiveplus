@@ -18,7 +18,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "6ece4142d7f5779796021efe841440fc00daefa3861c0025b3ac0e2a4242433f"
+hash = "186e30ebafc2f2c7ed2b860fb09698b2f1388274ffea53a021111d54e71cdee7"
 
 [[files]]
 file = "config/modpack_defaults/config/cull-less-leaves.json"
@@ -46,7 +46,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "58cc4252f7aec84813140c5aa2849eeac375162355c2f882325bb78f4397d9a9"
+hash = "a3bd427c803e7d8d5e2d89c1de8bc2deae04eddcb8874a404a201d60447b7841"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -183,17 +183,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0df092a3ac1e9d5c9500814f90d30f43ab50803c2632ad29059be48d9ed2e502"
+hash = "1a672734549cae5b15acbbe57ce38b9f52de712a8d794584fb6132e8180417c4"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8c2a98f8b3b60e2acc09997628d5ff7fdc7487e38d644a2cdf371b8fb4bfb743"
+hash = "4d382a608309656f8e76f1745bdd514084b06a32dab850f4f47908ca12bc169f"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
+hash = "0b90f460657ba15bd72a43aaffaec196272d8a49316c0dd45bb8d2430d520603"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "6890d994d3cf51f0d6ea10f451b760891b825190ae17d61a3b8cda18e04c7456"
+hash = "8e5a919503d1e17cb294b9d90abe039061ef8cb587db0bb9b7963bb8e5fdd99a"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
+hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
 metafile = true
 
 [[files]]
