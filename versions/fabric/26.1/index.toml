@@ -154,6 +154,11 @@ hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "356457a2271da11c38fad417a809518df6eb68b4acede6bc2c16932e2807a215"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
 metafile = true
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
