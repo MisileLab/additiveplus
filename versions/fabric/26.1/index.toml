@@ -74,6 +74,11 @@ hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "6a70bfa5035a27f977af026924c0b6bdf61ca5199d6b7b2e95b3784440f370f7"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "825652cca3d809cc99d157f723b23df62368e837059a098ca24f105205f4384a"
 metafile = true
@@ -151,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "75f91f7e5779ed7e7ddf295d63f301a0a87ffbc4757da81ef740d42fbfeaa8f9"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4d2890f8a51f95df8dc6685b46ba82ef51f376bffbab48c85bf3ad9a7745d36f"
 metafile = true
 
 [[files]]
