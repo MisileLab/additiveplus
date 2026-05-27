@@ -150,11 +150,13 @@ hash = "64910f41d4601943c46587c4f9d1c6a01653e7eaf0222d40ee22e8378157f4f3"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5adf60faf11b97a7979f398fd6c494f55603a384880db1bf9755f2495d0dc5a2"
+hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
+metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
@@ -167,6 +169,7 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
+metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
@@ -235,6 +238,11 @@ hash = "f76762ac057c6c867b74a2232f51e64c0e045197fcf4b0d8b60e916abc33c593"
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
+metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
