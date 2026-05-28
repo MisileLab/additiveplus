@@ -18,7 +18,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
+hash = "97ec743657bfe1f1cd4a0c4c3b956dd8e22ea541a197e7bbd5b67305c9bb6d1a"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -42,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "87e56b2ce8e5695b699c2a5c4215cc1e57d6f2aa7b1e58c3b87b1f08c6dadb8b"
+hash = "f26c6e6de1fed324af4f3d1a3f516a30db9ef492e6c15ff487382640593cc411"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -82,6 +82,21 @@ hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
+metafile = true
+
+[[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "a4c4bebcbebd06e20a5db0e0acb296987e9af9435969fb669cfe175c0e8769cd"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "d69de5e020139a28ca7b7256ad6f1d598ba09a1b6b051e326fc28261cf4f12b7"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "3fec3b665aa3c260075cabf00d04c75c6effd6b7b5f4e5e7a2c043b803d54ed8"
 metafile = true
@@ -103,12 +118,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
+hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
 metafile = true
 
 [[files]]
@@ -202,6 +217,11 @@ hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "a0021beb66f0891041e52910caa9735cdd7639104bfa23598b24b0bbd69f7de2"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
 metafile = true
@@ -214,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "a7cfafa635b14ec5ad6f77cde164b56ad46f2f1a0590c862485870639ea0faa8"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
 metafile = true
 
 [[files]]
@@ -267,6 +292,16 @@ hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "e7402c087800f5aac768a2cf2d082b0689b6821ed50700aeda2793308ffa6add"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
+metafile = true
+
+[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "533cc65290311d51c42bfa7a5a700254db6401ae5a90829fb7863b17db9665d1"
 metafile = true
@@ -309,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fe940e70dad29aa8b5e57d9679d7503009d56b1890dbc25194b4d278cbfaae5e"
+metafile = true
+
+[[files]]
+file = "mods/screenshots.pw.toml"
+hash = "5d6f3293db98f0de887f4050f518c45f2136a8c72f7dc74f3af7f07100b228bb"
 metafile = true
 
 [[files]]

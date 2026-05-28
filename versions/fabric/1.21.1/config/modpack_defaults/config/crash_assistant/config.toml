@@ -1,12 +1,12 @@
 [general]
-help_link = "https://discord.gg/36Tv44cYte"
-formulation_type = "DISCORD"
+help_link = "https://github.com/MisileLab/additiveplus/issues"
+formulation_type = "GITHUB"
 upload_to = "mclo.gs"
 
 [text]
-support_name = "SkywardMC Discord"
-support_place = "#support channel"
-modpack_name = "Additive"
+support_name = "MisileLab GitHub"
+support_place = "Issues"
+modpack_name = "BasicCraft"
 
 [modpack_modlist]
 enabled = false
