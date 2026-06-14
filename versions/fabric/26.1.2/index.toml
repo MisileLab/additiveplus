@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "672807075c8373d00d1a4d82c351a8a77f61eb02f9d935d30d258ae05b491d86"
+hash = "c1e9e71571d0f0b67f3c8fa16f68250a3cd4f1ebbb13b17d2a9de57f198f6196"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -18,7 +18,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
+hash = "97ec743657bfe1f1cd4a0c4c3b956dd8e22ea541a197e7bbd5b67305c9bb6d1a"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "672807075c8373d00d1a4d82c351a8a77f61eb02f9d935d30d258ae05b491d86"
+hash = "c1e9e71571d0f0b67f3c8fa16f68250a3cd4f1ebbb13b17d2a9de57f198f6196"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -69,8 +69,22 @@ file = "config/modpack_defaults/options.txt"
 hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 
 [[files]]
+file = "missing-mods"
+hash = "6caeb6d35d8cf96231a639565ccaad06ab54777e82e5a33ee8fd97105a2951ec"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "3a7f685358fe4eda8dc265f2d350c05e2cbc8c7a661e1d9676e72a02bc044a2b"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "6a70bfa5035a27f977af026924c0b6bdf61ca5199d6b7b2e95b3784440f370f7"
 metafile = true
 
 [[files]]
@@ -189,6 +203,11 @@ hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "356457a2271da11c38fad417a809518df6eb68b4acede6bc2c16932e2807a215"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
@@ -206,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "6aee3605cacd549fa2d966fd355588240580f8c67685ba8e759cd3a9e425e5b1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4d2890f8a51f95df8dc6685b46ba82ef51f376bffbab48c85bf3ad9a7745d36f"
 metafile = true
 
 [[files]]
@@ -254,6 +278,21 @@ hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "59b4cba676ddb6d20c105bd82747959b02be3fa467e614bafe62621221129d5b"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "f76762ac057c6c867b74a2232f51e64c0e045197fcf4b0d8b60e916abc33c593"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
@@ -261,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
 metafile = true
 
 [[files]]
