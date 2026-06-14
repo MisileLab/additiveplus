@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4d2890f8a51f95df8dc6685b46ba82ef51f376bffbab48c85bf3ad9a7745d36f"
+hash = "73838bd3377c35a6da4b6959dc77e6fa5aecbfc2922ca45c6a35f0febf8b7ae2"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "f76762ac057c6c867b74a2232f51e64c0e045197fcf4b0d8b60e916abc33c593"
+hash = "9d19be63264914b6e631ea2e3212e7d96dc01facc39c2a6046394ab55cb45a1d"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
