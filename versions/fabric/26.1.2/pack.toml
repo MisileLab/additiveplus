@@ -1,16 +1,13 @@
-name = "BasicCraft"
-author = "MisileLab"
-version = "26.1.4+mc26.1.2.fabric"
+name = "Additive"
+author = "SkywardMC"
+version = "26.2.0+mc26.1.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e12fad403341b3863bfdd97a2fabd151204046433a3326759329772bfc0ad1c5"
+hash = "0ec55b3894add547c1d5666eb4da5a8dffeaa1ad4717c1eb212e419eda048306"
 
 [versions]
-fabric = "0.19.2"
+fabric = "0.19.3"
 minecraft = "26.1.2"
-
-[options]
-acceptable-game-versions = ["26.1-snapshot-1", "26.1-snapshot-2", "26.1-snapshot-3", "26.1-snapshot-4", "26.1-snapshot-5", "26.1-snapshot-6", "26.1-snapshot-7", "26.1-snapshot-8", "26.1-snapshot-9", "26.1-snapshot-10", "26.1-snapshot-11", "26.1-pre-1", "26.1-pre-2", "26.1-pre-3", "26.1-rc-1", "26.1-rc-2", "26.1-rc-3", "26.1", "26.1.1", "26.1.2"]
