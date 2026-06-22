@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0df5b56030356466bca2d698582b7aba7f39abe1ea97fd90934a45b603639706"
+hash = "2344b5f201f40dc7277ab9655013593ff3ca648b61e7f8028ba2aba56b84473d"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "0df5b56030356466bca2d698582b7aba7f39abe1ea97fd90934a45b603639706"
+hash = "2344b5f201f40dc7277ab9655013593ff3ca648b61e7f8028ba2aba56b84473d"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
