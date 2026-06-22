@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fa14a5cdf69ca79cc223301b7df6c763237bd8083da0161ceb403f0582c2e0e6"
+hash = "5e67255b8315bbf1b68dffeb23b81a8077f17c0999e9cef94f4a8a78f22b3b84"
 
 [[files]]
 file = "config/modpack_defaults/config/capes.json5"
@@ -29,10 +29,6 @@ file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
-file = "config/modpack_defaults/config/enhanced_bes.properties"
-hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
-
-[[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
@@ -46,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "fa14a5cdf69ca79cc223301b7df6c763237bd8083da0161ceb403f0582c2e0e6"
+hash = "5e67255b8315bbf1b68dffeb23b81a8077f17c0999e9cef94f4a8a78f22b3b84"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -128,12 +124,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "7c696218d77b3308c4dd27f465eb9f726618360f57f95a3bdd6e13c5f4750007"
+hash = "0db309b4463cafceaa25183800a27715198820055bdc09d8e5fa048dea450ed2"
 metafile = true
 
 [[files]]
@@ -143,12 +139,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "d1b2a7d4cae56fc280aa6f8a45b6db4790ab06fc10ab746b3632a45f522697f9"
+hash = "c0515a8643edc8a9c600457eecf4b870d1b7ca66bbb649c4c43ee880b847fdfd"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "b2dfb994b81c1abf1dba036c84e560832d726c633cd69d1e3bebbfc105541558"
+hash = "32078cdd125f4c4c9d4d06004ccede04483cf0d89a248cf0496b67bec3304c27"
 metafile = true
 
 [[files]]
@@ -172,11 +168,6 @@ hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "63966d5a31c8d1b2f5d23706c55bccd574d4d94ba2527406772b6c6c0963d9db"
 metafile = true
@@ -188,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a9502bd6065963bc8cb3f53de373e066c514bc4f6de12b4d9f83e99317769db7"
+hash = "c03af903bde894a53ed6384ded823cadc41f6d0f8b8fe29b682d97dceb0e9ba6"
 metafile = true
 
 [[files]]
@@ -252,11 +243,6 @@ hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "fbaca3be2f514e574bd2026c7c9fb3a69869a5e8252072513fffa36dfcab3293"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -268,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "d7077ccae13993a78874abb9c8c434896ab98477860b55d7ce3a8310f96a9c7f"
+hash = "b9706c6ff4b39cadf6ee32900be7c21cd37518b6c76365987c3074539901d8ef"
 metafile = true
 
 [[files]]
@@ -344,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "67b6fdc33e6e3ae928b088e89a38ead2fb731e2e48e2090e6c4eb5f641d457d2"
 metafile = true
 
 [[files]]
@@ -443,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "8ccd17daba5bfc3c5ec95a7b143d4e65b5e723435921d2e201c5ff4270c80219"
+hash = "de2a82da7e914ff268bb7a0dd8bbb577ae693781b36bb59442ce2f3a7e530387"
 metafile = true
 
 [[files]]

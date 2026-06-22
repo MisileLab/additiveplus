@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fa14a5cdf69ca79cc223301b7df6c763237bd8083da0161ceb403f0582c2e0e6"
+hash = "5e67255b8315bbf1b68dffeb23b81a8077f17c0999e9cef94f4a8a78f22b3b84"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "fa14a5cdf69ca79cc223301b7df6c763237bd8083da0161ceb403f0582c2e0e6"
+hash = "5e67255b8315bbf1b68dffeb23b81a8077f17c0999e9cef94f4a8a78f22b3b84"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -73,18 +73,13 @@ file = "missing-mods"
 hash = "0981c1b1292d5fbcb4032c059a3e262bbfa86db4dd2d513ff9d9ad1405123b5e"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+file = "mods/animaticarefabricated.pw.toml"
+hash = "8e3a4e5d87dbfc3b08ba024d2297d4d745ab73c7d74684bc93cdc0ac55318868"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
-metafile = true
-
-[[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
 
 [[files]]
@@ -114,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
+hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
 metafile = true
 
 [[files]]
@@ -129,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "8f8efa9811c1cf8f339d02a8fa63a7e538740c76c8f6910ec0a979e890e77dbb"
+hash = "61468c5fcf7a91563c5db1a6c100d885344d40156d0ef8f2851e01da57b68048"
 metafile = true
 
 [[files]]
@@ -144,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "27ebada53455956aa62fd2f966d7fd089d134505a448fe91faf9460f9bc6e73e"
+hash = "5be4c02268497d87b2b791423d001bd1e86a5fc3912b6e84b5029130d0996cdc"
 metafile = true
 
 [[files]]
@@ -159,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5b852f8f193fcb95c3bbc30cb4f223480420ed911a98b682b81bd52c943f5f7b"
+hash = "50316916193387757ab48262706999b6671ad439c06d744107054f6fe81fefc8"
 metafile = true
 
 [[files]]
@@ -224,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "3de84e5e30c3d96ac5491e04ed1f34a83a68c27c40120e6e8bea1f06c86bb31d"
+hash = "28969e04d6b9eae771050efd44f65565e76c8525434e50b1e3ce1d8b10fa579c"
 metafile = true
 
 [[files]]
@@ -293,6 +288,11 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "d8a46ced552652941644abcaed18065fa3bc7deb916d8352b5f243b5866f0436"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "a96d1b2bfb7e9aa08e5f7446b14f4d4253d89cc675bbc285dc8d0dc6095db312"
 metafile = true
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "bfd77500b3b0913464552f466386a2ffdf34d9b807f166a5e320a2aff2319fda"
+hash = "d306fa605bd62dc4ff01dc437a6a3f3282c69854b6a90424d93ee62aab221089"
 metafile = true
 
 [[files]]
@@ -394,5 +394,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "b7c0b200e89a3681db1fa4bce319536d639305b829ce8be966963704e676b739"
+hash = "ad0a641c592db6d4092faf328048197b9affbfa359a0e0e6f253ba7926814da5"
 metafile = true

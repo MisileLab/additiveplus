@@ -1,0 +1,16 @@
+name = "BasicCraft"
+author = "MisileLab"
+version = "26.3.0+mc26.2.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8aff6602a6a827a878bbf284b9e2018ddd956a70f50a39323eaa4793a9e68270"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
+
+[options]
+acceptable-game-versions = ["26.2-rc-2", "26.2-rc-1", "26.2-pre-6", "26.2-pre-5", "26.2-pre-4", "26.2-pre-3", "26.2-pre-2", "26.2-pre-1"]

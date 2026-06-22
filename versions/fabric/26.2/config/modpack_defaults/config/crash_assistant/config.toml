@@ -1,0 +1,22 @@
+[general]
+help_link = "https://github.com/MisileLab/additiveplus/issues"
+formulation_type = "GITHUB"
+upload_to = "mclo.gs"
+
+[text]
+support_name = "MisileLab GitHub"
+support_place = "Issues"
+modpack_name = "BasicCraft"
+
+[modpack_modlist]
+enabled = false
+
+[piracy]
+enabled = true
+delay = 0
+
+[greeting]
+shown_greeting = true
+
+[scripts]
+enabled = false
