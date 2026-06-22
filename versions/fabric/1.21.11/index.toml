@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "28969e04d6b9eae771050efd44f65565e76c8525434e50b1e3ce1d8b10fa579c"
+hash = "48ad24e9cc714543b55180cba8945af9b3706217f4b39a113a92501739855db1"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuit.pw.toml"
-hash = "60618900d0ec75ea05b70403860cd161c736a5cd26f533872fba13a7c7c72206"
+hash = "ce6ab101c94bbc58b2e72e1c102b0997580b71662b02906bde2a1f9077171895"
 metafile = true
 
 [[files]]

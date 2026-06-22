@@ -1,13 +1,13 @@
 name = "Nuit (formerly FabricSkyboxes)"
-filename = "nuit-fabric-1.0.0-beta.1+mc1.21.5.jar"
+filename = "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/WOIslIin/nuit-fabric-1.0.0-beta.1%2Bmc1.21.5.jar"
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar"
 hash-format = "sha512"
-hash = "c274c805eb410d71133a63e89fd5cf8c3ffc8f5313a9fb4577c5554220a25a92226946b33872053137badba860d17a96473e9d950c3fb61655fb7e277fd33af9"
+hash = "208e0dcb908dc25b99933c0fc962bf1a47d4f56017d6174a9017e45563d2ff5da3a5c426e1dc8efd0038ecd55903544db423eaaad98681bcb00356d82154be33"
 
 [update]
 [update.modrinth]
 mod-id = "YBz7DOs8"
-version = "WOIslIin"
+version = "bYMAIhI1"
