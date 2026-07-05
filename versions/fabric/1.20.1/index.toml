@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c5469708fb749d3e68fba8ce7226c2ff8e3c172a6789c0d9988b02955eea7c06"
+hash = "8e8f3d4ed3f1db385668b69708f302fdf3d1e090f343158db04bc6e00f28bbcc"
 
 [[files]]
 file = "config/modpack_defaults/config/capes.json5"
@@ -42,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "c5469708fb749d3e68fba8ce7226c2ff8e3c172a6789c0d9988b02955eea7c06"
+hash = "8e8f3d4ed3f1db385668b69708f302fdf3d1e090f343158db04bc6e00f28bbcc"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
+hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
+hash = "478081de97d4987a2aca06cf0c17880bf37faa71c3adf40ca698f83ce606ca97"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "67b6fdc33e6e3ae928b088e89a38ead2fb731e2e48e2090e6c4eb5f641d457d2"
+hash = "f9c8a8433db821eabc10542cc7a62bd53ad81fb8c998fa0e14f7dceec7f34832"
 metafile = true
 
 [[files]]
