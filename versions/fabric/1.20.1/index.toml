@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8e8f3d4ed3f1db385668b69708f302fdf3d1e090f343158db04bc6e00f28bbcc"
+hash = "1611418f3eb338b1bcba99322aa36d6d37dfb2f9f708566a1f4039547c02a0ab"
 
 [[files]]
 file = "config/modpack_defaults/config/capes.json5"
@@ -26,7 +26,7 @@ hash = "ec31fff3a58d804f6c89857469888ac02df536e5e78bd35f5c97c0651b8b66ad"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
-hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
+hash = "fca3b803240f9a7057fd8f46f1884e70e81a56c363b1bb787cf12d140c3fed90"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -42,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "8e8f3d4ed3f1db385668b69708f302fdf3d1e090f343158db04bc6e00f28bbcc"
+hash = "1611418f3eb338b1bcba99322aa36d6d37dfb2f9f708566a1f4039547c02a0ab"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -90,6 +90,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "d2efdd2dd469e56d9437082a52d6d8d9f9c4b055ad3b728dded4c49d4ba5267a"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "24404c5ec658b3718d682fdf8ffbe19314317bab3bd2ba60ced6a64ec43c67bc"
 metafile = true
 
 [[files]]
@@ -144,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "32078cdd125f4c4c9d4d06004ccede04483cf0d89a248cf0496b67bec3304c27"
+hash = "a3a87e30e93688966faaed3a8f38d34296b1b08b2ed9470f6180d83fc39230f5"
 metafile = true
 
 [[files]]
@@ -194,12 +204,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -254,12 +264,17 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "afd8124610f1a4a137064eaf4d9b4d1164912d53adfc22728f0d16b869f59b57"
+hash = "72d0ac89f34cf67add6b6b2d6fa07b5254ddad8410455fb35592ed04625e64bf"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+hash = "4da3ad4943ca6cb4534f85bd75211de869e0b77a71edc8bd774470849a91b7fa"
+metafile = true
+
+[[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "0aae6815cb51e2300c13fc1d0d39b31f0cb8027d49c5d5504d2cfeedf65c2ffb"
 metafile = true
 
 [[files]]
@@ -334,17 +349,12 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f9c8a8433db821eabc10542cc7a62bd53ad81fb8c998fa0e14f7dceec7f34832"
+hash = "5fcf19600b5caea3fa7e1d45cd6cfb4454f568183465f57319f69b4522072929"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "9ed765da71f977af16c71b3ff56356dea5a149d9626277e4d4868941f8efa1b0"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "6145f87dcf4ed503396679ad80bfda836192c7493aa3f5a2a7ffe85c84ecd21a"
 metafile = true
 
 [[files]]
@@ -359,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "492e169c5cffd138b86ef194697c6fca0154531acc6552c9111d855d1f282e69"
+hash = "61b29c4ee80ea426f0b3c9ac87b1b4e3e729e9129e69406067e9cfb8719429ac"
 metafile = true
 
 [[files]]
@@ -429,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "c5b66cb75b425a4cc58a3a143100fd88e1d670d76362f603dbd883d244de5934"
+hash = "b7dd12c30fe20b89b1eee30e8ce49c4b8fcce8a0b466ab2419b5df0e63d85b63"
 metafile = true
 
 [[files]]

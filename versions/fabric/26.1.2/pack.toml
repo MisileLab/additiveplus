@@ -1,12 +1,12 @@
 name = "BasicCraft"
 author = "MisileLab"
-version = "26.3.2+mc26.1.2.fabric"
+version = "26.4.2+mc26.1.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0965ad0a42d742a6feb08e60ebefc1f35b6ccd9269876e918338ee595e9b786a"
+hash = "d0a17f079a98828aed164cc982ff48ca93da895c3b80664b650b641c287f1152"
 
 [versions]
 fabric = "0.19.3"
