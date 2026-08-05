@@ -1,13 +1,15 @@
 name = "BasicCraft"
 author = "MisileLab"
-version = "26.3.2+mc1.20.1.fabric"
+version = "26.4.4+mc1.20.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6c24f9a35af9f6e190917d42a648c83639ea205e238116c8309133b86fc93b4e"
 
 [versions]
 fabric = "0.19.3"
 minecraft = "1.20.1"
+
+[options]
+no-internal-hashes = true
