@@ -52,14 +52,11 @@ file = "config/modpack_defaults/config/world-host.json5"
 file = "config/modpack_defaults/options.txt"
 
 [[files]]
-file = "missing-mods"
-
-[[files]]
-file = "mods/animaticarefabricated.pw.toml"
+file = "mods/adaptive-tooltips.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
+file = "mods/animaticarefabricated.pw.toml"
 metafile = true
 
 [[files]]
@@ -68,10 +65,6 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/bettercommandblockui.pw.toml"
 metafile = true
 
 [[files]]
@@ -151,7 +144,11 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
+file = "mods/fastquit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastserverpings.pw.toml"
 metafile = true
 
 [[files]]
@@ -160,10 +157,6 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/gamma-utils.pw.toml"
 metafile = true
 
 [[files]]
@@ -176,10 +169,6 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
@@ -215,27 +204,11 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/nbt-autocomplete.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -291,7 +264,15 @@ file = "mods/yacl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/zconfig.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zmaterial-rule-compiler.pw.toml"
 metafile = true
 
 [[files]]
