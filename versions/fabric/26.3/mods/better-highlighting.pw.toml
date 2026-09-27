@@ -1,0 +1,13 @@
+name = "Better Highlighting"
+filename = "better-highlighting-0.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rjsZCeTS/versions/VBbA9856/better-highlighting-0.3.1.jar"
+hash-format = "sha512"
+hash = "e717fd52ecc0d074ae5fbb6d06efc3cd2de63eb418ff5595929f6758cbe7b879e185fff7c2d189105c62f22cf224311ce6ba19a180500dfdaa93c7e03f4feece"
+
+[update]
+[update.modrinth]
+mod-id = "rjsZCeTS"
+version = "VBbA9856"

@@ -63,7 +63,27 @@ file = "mods/animatica.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/asynclogger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-highlighting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
 metafile = true
 
 [[files]]
@@ -76,6 +96,10 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
 metafile = true
 
 [[files]]
@@ -116,6 +140,10 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
 metafile = true
 
 [[files]]
@@ -163,6 +191,14 @@ file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
@@ -176,6 +212,10 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
@@ -223,6 +263,14 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nuit-interop.pw.toml"
 metafile = true
 
@@ -235,11 +283,23 @@ file = "mods/obe.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -263,7 +323,19 @@ file = "mods/resourceful-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/screenshots.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shared-resources.pw.toml"
 metafile = true
 
 [[files]]

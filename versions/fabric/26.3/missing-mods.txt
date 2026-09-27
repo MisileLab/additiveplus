@@ -1,0 +1,10 @@
+antighost
+architectury-api
+bettercommandblockui
+emi
+gamma-utils
+hold-that-chunk
+obsidianui
+screenshot-to-clipboard
+screenshots
+shared-resources
