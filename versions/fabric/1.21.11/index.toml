@@ -55,9 +55,6 @@ file = "config/modpack_defaults/options.txt"
 file = "missing-mods"
 
 [[files]]
-file = "missing-mods.txt"
-
-[[files]]
 file = "mods/animaticarefabricated.pw.toml"
 metafile = true
 

@@ -1,8 +1,0 @@
-antighost
-emi
-hold-that-chunk
-modelfix
-obsidianui
-screenshot-to-clipboard
-screenshots
-shared-resources
