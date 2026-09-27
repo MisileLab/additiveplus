@@ -1,4 +1,9 @@
+.build
+.vscode
+*.mrpack
 build
 .DS_Store
 node_modules
 .direnv
+packwiz
+.idea

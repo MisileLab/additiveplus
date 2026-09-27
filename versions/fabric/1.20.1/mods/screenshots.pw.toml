@@ -1,0 +1,13 @@
+name = "Screenshots"
+filename = "screenshots-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VuT1FX12/versions/DK2oX7mU/screenshots-1.1.0.jar"
+hash-format = "sha512"
+hash = "bca2149ac300fc21fcae147a8577b9d994ee51e87cc5db81383aa8b7a14e3f4c70981cb2b6922827ec293624d5edcdabc30045d246b0af59ece4bbd436636649"
+
+[update]
+[update.modrinth]
+mod-id = "VuT1FX12"
+version = "DK2oX7mU"

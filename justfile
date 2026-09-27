@@ -1,46 +1,23 @@
-alias e := export
-alias r := refresh
-alias u := update
+export:
+  ./simple-packwiz-wrapper.sh export
 
-set windows-shell := ["powershell.exe", "-NoLogo", "-Command"]
+update:
+  ./simple-packwiz-wrapper.sh update
 
-default:
-    @just --list
+refresh:
+  ./simple-packwiz-wrapper.sh refresh
 
-[private]
-[windows]
-_batchcmd cmd loader:
-    Get-ChildItem -Path versions\{{ if loader == "all" { "*\\*" } else { loader } }} -Directory | % { \
-      Set-Location $_.FullName; \
-      Write-Host "running {{ cmd }} in" versions\loader\$_; \
-      Invoke-Expression "{{ cmd }}"; \
-      Pop-Location; \
-    }
+move:
+  ./simple-packwiz-wrapper.sh mv
 
-[linux]
-[macos]
-[private]
-_batchcmd cmd loader:
-    for d in versions/{{ if loader == "all" { "*" } else { loader } }}/*/; do \
-      pushd "$d" &> /dev/null; \
-      echo "running {{ cmd }} in $d..."; \
-      {{ cmd }}; \
-      popd &> /dev/null; \
-    done
+remove:
+  ./simple-packwiz-wrapper.sh rm
 
-# all versions of <loader> (or "all") will be exported as a modrinth modpack
-[linux]
-[macos]
-export loader: && (_batchcmd "packwiz modrinth export; mv *.mrpack ../../../build/" loader)
-    -mkdir -p build/
+cleanup:
+  rm -rv *.mrpack
 
-# all versions of <loader> (or "all") will be exported as a modrinth modpack
-[windows]
-export loader: && (_batchcmd "packwiz modrinth export; Move-Item -Force -Path *.mrpack -Destination ../../../build/" loader)
-    -New-Item -Force -Type Directory -Path build/
+upload-dry-run project_id:
+  python3 upload_to_modrinth.py --project-id {{project_id}} --dry-run
 
-# all versions of <loader> (or "all") will have pack.toml & index.toml refreshed
-refresh loader: && (_batchcmd "packwiz refresh" loader)
-
-# all versions of <loader> (or "all") will be updated
-update loader: && (_batchcmd "packwiz update --all" loader)
+upload project_id:
+  python3 upload_to_modrinth.py --project-id {{project_id}}

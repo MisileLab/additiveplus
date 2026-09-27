@@ -2,7 +2,9 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "Additive 26.4.3"
+				"text": "BasicCraft 26.3.2"
+				"text": "BasicCraft 26.4.4 (Alpha)",
+				"color": "red"
 			}
 		]
 	}
