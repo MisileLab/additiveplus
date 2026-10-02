@@ -199,6 +199,10 @@ file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
@@ -316,6 +320,10 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zfastsurface.pw.toml"
 metafile = true
 
 [[files]]

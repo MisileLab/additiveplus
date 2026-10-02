@@ -55,6 +55,10 @@ file = "config/modpack_defaults/options.txt"
 file = "missing-mods"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/animaticarefabricated.pw.toml"
 metafile = true
 
@@ -112,6 +116,10 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
 metafile = true
 
 [[files]]
@@ -175,6 +183,10 @@ file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
@@ -220,6 +232,10 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
 metafile = true
 
 [[files]]
@@ -275,7 +291,15 @@ file = "mods/zfastnoise.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/zfastsurface.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
